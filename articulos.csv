@@ -1,0 +1,122 @@
+articulo_id,articulo
+A1,Huevo McMuffin
+A2,Delicia de clara de huevo
+A3,McMuffin de salchicha
+A4,McMuffin de salchicha con huevo
+A5,McMuffin de salchicha con claras de huevo
+A6,McMuffin de bistec y huevo
+A7,"Bizcocho De Tocino, Huevo Y Queso (Bizcocho Regular)"
+A8,"Galleta De Tocino, Huevo Y Queso (Galleta Grande)"
+A9,"Galleta de tocino, huevo y queso con claras de huevo (galleta normal)"
+A10,"Galleta de tocino, huevo y queso con claras de huevo (galleta grande)"
+A11,Galleta De Salchicha (Galleta Regular)
+A12,Galleta De Salchicha (Galleta Grande)
+A13,Galleta De Salchicha Con Huevo (Galleta Regular)
+A14,Galleta De Salchicha Con Huevo (Galleta Grande)
+A15,Galleta De Salchicha Con Claras De Huevo (Galleta Regular)
+A16,Galleta De Salchicha Con Clara De Huevo (Galleta Grande)
+A17,Galleta de pollo estilo sureño (galleta regular)
+A18,Galleta de pollo estilo sureño (galleta grande)
+A19,Bizcocho de bistec y huevo (bizcocho normal)
+A20,"McGriddles de tocino, huevo y queso"
+A21,"McGriddles de tocino, huevo y queso con claras de huevo"
+A22,McGriddles de salchicha
+A23,"McGriddles de salchicha, huevo y queso"
+A24,"McGriddles de salchicha, huevo y queso con claras de huevo"
+A25,"Bagel de tocino, huevo y queso"
+A26,"Bagel de tocino, huevo y queso con claras de huevo"
+A27,"Bagel de bistec, huevo y queso"
+A28,Gran Desayuno (Galleta Regular)
+A29,Desayuno grande (galleta grande)
+A30,Gran Desayuno con Claras de Huevo (Galleta Regular)
+A31,Gran desayuno con claras de huevo (galleta grande)
+A32,Gran Desayuno con Hotcakes (Galleta Regular)
+A33,Gran desayuno con hotcakes (galleta grande)
+A34,Gran Desayuno con Hotcakes y Claras de Huevo (Galleta Regular)
+A35,Gran desayuno con hotcakes y claras de huevo (galleta grande)
+A36,Panqueques
+A37,Hotcakes y salchichas
+A38,Burrito de salchicha
+A39,Hash Brown
+A40,Derretidos de canela
+A41,Avena de frutas y arce
+A42,Avena de frutas y arce sin azúcar morena
+A43,Big Mac
+A44,Cuarto de Libra con queso
+A45,Cuarto de libra con tocino y queso
+A46,Quarter Pounder con tocino Habanero Ranch
+A47,Cuarto de libra de lujo
+A48,Cuarto de libra doble con queso
+A49,hamburguesa
+A50,Hamburguesa con queso
+A51,Doble hamburguesa de queso
+A52,Hamburguesa de tocino Clubhouse
+A53,McDouble
+A54,Tocino mcdouble
+A55,Doble Diaria
+A56,Jalapeño Doble
+A57,McRib
+A58,Sándwich Clásico De Pollo Crujiente Premium
+A59,Sándwich Clásico De Pollo A La Parrilla Premium
+A60,Sándwich Club De Pollo Crujiente Premium
+A61,Sándwich Club De Pollo A La Parrilla Premium
+A62,Sándwich premium crujiente de pollo Ranch BLT
+A63,Sándwich premium de pollo asado Ranch BLT
+A64,Sándwich de pollo crujiente con tocino Clubhouse
+A65,Sándwich de pollo a la parrilla con tocino Clubhouse
+A66,Sándwich de pollo crujiente estilo sureño
+A67,McChicken
+A68,Bacon Cheddar McChicken
+A69,Bacon Buffalo Ranch McChicken
+A70,Buffalo Ranch McChicken
+A71,Pollo y tocino Premium McWrap (pollo crujiente)
+A72,Pollo y tocino Premium McWrap (pollo a la parrilla)
+A73,Premium McWrap Chicken & Ranch (pollo crujiente)
+A74,Premium McWrap Chicken & Ranch (pollo asado)
+A75,Pollo Sudoeste Premium McWrap (Pollo Crujiente)
+A76,Pollo Premium McWrap Southwest (pollo a la parrilla)
+A77,Chili Dulce De Pollo Premium McWrap (Pollo Crujiente)
+A78,Chili Dulce De Pollo McWrap Premium (Pollo A La Parrilla)
+A79,McNuggets de pollo (4 piezas)
+A80,McNuggets de pollo (6 piezas)
+A81,McNuggets de pollo (10 piezas)
+A82,McNuggets de pollo (20 piezas)
+A83,McNuggets de pollo (40 piezas)
+A84,Filete de pescado
+A85,Ensalada ranchera de tocino premium (sin pollo)
+A86,Ensalada ranchera de tocino premium con pollo crujiente
+A87,Ensalada ranchera de tocino premium con pollo asado
+A88,Ensalada Premium Southwest (sin pollo)
+A89,Ensalada Premium Southwest con pollo crujiente
+A90,Ensalada Premium Southwest con pollo a la parrilla
+A91,Snack Wrap de Chipotle BBQ (Pollo Crujiente)
+A92,Snack Wrap de Chipotle BBQ (Pollo a la Parrilla)
+A93,Wrap de Miel y Mostaza (Pollo Crujiente)
+A94,Wrap de Miel y Mostaza (Pollo a la Parrilla)
+A95,Envoltura de bocadillos Ranch (pollo crujiente)
+A96,Envoltura de bocadillos ranch (pollo asado)
+A97,Papas Fritas Pequeñas
+A98,Papas fritas medianas
+A99,Papas fritas grandes
+A100,Papas fritas para niños
+A101,Ensalada
+A102,Rebanadas de manzana
+A103,Perfecto Fruit 'n Yogurt
+A104,Pastel de manzana al horno
+A105,Galleta con chispas de chocolate
+A106,Galleta de avena con pasas
+A107,Cono de helado para niños
+A108,Sundae de chocolate caliente
+A109,Sundae de caramelo caliente
+A110,Helado de fresa
+A111,Jarra de leche descremada al 1%
+A112,Jarra de leche con chocolate sin grasa
+A113,Caja de jugo de manzana 100% Minute Maid
+A114,McFlurry con caramelos de M&M (pequeño)
+A115,McFlurry con caramelos de M&M (mediano)
+A116,McFlurry con caramelos de M&M (bocadillo)
+A117,McFlurry con galletas Oreo (pequeño)
+A118,McFlurry con galletas Oreo (mediano)
+A119,McFlurry con galletas Oreo (bocadillo)
+A120,McFlurry con tazas de mantequilla de maní de Reese (mediano)
+A121,McFlurry con tazas de mantequilla de maní de Reese (bocadillo)
