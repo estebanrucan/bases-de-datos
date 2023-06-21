@@ -1,0 +1,22 @@
+[
+    {
+        "Education_Code": 0,
+        "Education": "2n Cycle"
+    },
+    {
+        "Education_Code": 1,
+        "Education": "Basic"
+    },
+    {
+        "Education_Code": 2,
+        "Education": "Graduation"
+    },
+    {
+        "Education_Code": 3,
+        "Education": "Master"
+    },
+    {
+        "Education_Code": 4,
+        "Education": "PhD"
+    }
+]
