@@ -1,0 +1,890 @@
+idPasajero,sobrevive,clasePasaje,nombre,sexo,edad,nroHermanos,nroPadresHijos,idPasaje,embarque,precioPasaje
+PA1,No,3ra clase,"Braund, Mr. Owen Harris",Masculino,22,1,0,TI279,Southampton,7.25
+PA2,Si,1ra clase,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Femenino,38,1,0,TI247,Cherbourg,71.28
+PA3,Si,3ra clase,"Heikkinen, Miss. Laina",Femenino,26,0,0,TI746,Southampton,7.92
+PA4,Si,1ra clase,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Femenino,35,1,0,TI183,Southampton,26.55
+PA5,No,3ra clase,"Allen, Mr. William Henry",Masculino,35,0,0,TI496,Southampton,8.05
+PA6,No,3ra clase,"Moran, Mr. James",Masculino,31,0,0,TI682,Queenstown,8.46
+PA7,No,1ra clase,"McCarthy, Mr. Timothy J",Masculino,54,0,0,TI196,Southampton,51.86
+PA8,No,3ra clase,"Palsson, Master. Gosta Leonard",Masculino,2,3,1,TI222,Southampton,5.27
+PA9,Si,3ra clase,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Femenino,27,0,2,TI333,Southampton,3.71
+PA10,Si,2da clase,"Nasser, Mrs. Nicholas (Adele Achem)",Femenino,14,1,0,TI290,Cherbourg,15.04
+PA11,Si,3ra clase,"Sandstrom, Miss. Marguerite Rut",Femenino,4,1,1,TI468,Southampton,8.35
+PA12,Si,1ra clase,"Bonnell, Miss. Elizabeth",Femenino,58,0,0,TI557,Southampton,26.55
+PA13,No,3ra clase,"Saundercock, Mr. William Henry",Masculino,20,0,0,TI8,Southampton,8.05
+PA14,No,3ra clase,"Andersson, Mr. Anders Johan",Masculino,39,1,5,TI357,Southampton,4.47
+PA15,No,3ra clase,"Vestrom, Miss. Hulda Amanda Adolfina",Femenino,14,0,0,TI291,Southampton,7.85
+PA16,Si,2da clase,"Hewlett, Mrs. (Mary D Kingcome)",Femenino,55,0,0,TI436,Southampton,16.0
+PA17,No,3ra clase,"Rice, Master. Eugene",Masculino,2,4,1,TI64,Queenstown,5.82
+PA18,Si,2da clase,"Williams, Mr. Charles Eugene",Masculino,28,0,0,TI311,Southampton,13.0
+PA19,No,3ra clase,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Femenino,31,1,0,TI481,Southampton,18.0
+PA20,Si,3ra clase,"Masselmani, Mrs. Fatima",Femenino,38,0,0,TI332,Cherbourg,7.22
+PA21,No,2da clase,"Fynney, Mr. Joseph J",Masculino,35,0,0,TI480,Southampton,13.0
+PA22,Si,2da clase,"Beesley, Mr. Lawrence",Masculino,34,0,0,TI734,Southampton,13.0
+PA23,Si,3ra clase,"McGowan, Miss. Anna """"""""""""""""""""""""""""""""Annie""""""""""""""""""""""""""""""""",Femenino,15,0,0,TI101,Queenstown,8.03
+PA24,Si,1ra clase,"Sloper, Mr. William Thompson",Masculino,28,0,0,TI663,Southampton,35.5
+PA25,No,3ra clase,"Palsson, Miss. Torborg Danira",Femenino,8,3,1,TI774,Southampton,5.27
+PA26,Si,3ra clase,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Femenino,38,1,5,TI410,Southampton,7.85
+PA27,No,3ra clase,"Emir, Mr. Farred Chehab",Masculino,38,0,0,TI715,Cherbourg,7.22
+PA28,No,1ra clase,"Fortune, Mr. Charles Alexander",Masculino,19,3,2,TI853,Southampton,65.75
+PA29,Si,3ra clase,"O'Dwyer, Miss. Ellen """"""""""""""""""""""""""""""""Nellie""""""""""""""""""""""""""""""""",Femenino,28,0,0,TI814,Queenstown,7.88
+PA30,No,3ra clase,"Todoroff, Mr. Lalio",Masculino,30,0,0,TI614,Southampton,7.9
+PA31,No,1ra clase,"Uruchurtu, Don. Manuel E",Masculino,40,0,0,TI345,Cherbourg,27.72
+PA32,Si,1ra clase,"Spencer, Mrs. William Augustus (Marie Eugenie)",Femenino,26,1,0,TI877,Cherbourg,73.26
+PA33,Si,3ra clase,"Glynn, Miss. Mary Agatha",Femenino,40,0,0,TI379,Queenstown,7.75
+PA34,No,2da clase,"Wheadon, Mr. Edward H",Masculino,66,0,0,TI348,Southampton,10.5
+PA35,No,1ra clase,"Meyer, Mr. Edgar Joseph",Masculino,28,1,0,TI705,Cherbourg,41.09
+PA36,No,1ra clase,"Holverson, Mr. Alexander Oskar",Masculino,42,1,0,TI709,Southampton,26.0
+PA37,Si,3ra clase,"Mamee, Mr. Hanna",Masculino,27,0,0,TI516,Cherbourg,7.23
+PA38,No,3ra clase,"Cann, Mr. Ernest Charles",Masculino,21,0,0,TI228,Southampton,8.05
+PA39,No,3ra clase,"Vander Planke, Miss. Augusta Maria",Femenino,18,2,0,TI834,Southampton,9.0
+PA40,Si,3ra clase,"Nicola-Yarred, Miss. Jamila",Femenino,14,1,0,TI297,Cherbourg,5.62
+PA41,No,3ra clase,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Femenino,40,1,0,TI584,Southampton,9.47
+PA42,No,2da clase,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Femenino,27,1,0,TI640,Southampton,10.5
+PA43,No,3ra clase,"Kraeff, Mr. Theodor",Masculino,30,0,0,TI875,Cherbourg,7.9
+PA44,Si,2da clase,"Laroche, Miss. Simonne Marie Anne Andree",Femenino,3,1,2,TI107,Cherbourg,13.86
+PA45,Si,3ra clase,"Devaney, Miss. Margaret Delia",Femenino,19,0,0,TI479,Queenstown,7.88
+PA46,No,3ra clase,"Rogers, Mr. William John",Masculino,32,0,0,TI813,Southampton,8.05
+PA47,No,3ra clase,"Lennon, Mr. Denis",Masculino,35,1,0,TI281,Queenstown,15.5
+PA48,Si,3ra clase,"O'Driscoll, Miss. Bridget",Femenino,40,0,0,TI338,Queenstown,7.75
+PA49,No,3ra clase,"Samaan, Mr. Youssef",Masculino,25,2,0,TI851,Cherbourg,21.68
+PA50,No,3ra clase,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Femenino,18,1,0,TI133,Southampton,8.9
+PA51,No,3ra clase,"Panula, Master. Juha Niilo",Masculino,7,4,1,TI585,Southampton,6.61
+PA52,No,3ra clase,"Nosworthy, Mr. Richard Cater",Masculino,21,0,0,TI359,Southampton,7.8
+PA53,Si,1ra clase,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Femenino,49,1,0,TI605,Cherbourg,25.58
+PA54,Si,2da clase,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Femenino,29,1,0,TI249,Southampton,26.0
+PA55,No,1ra clase,"Ostby, Mr. Engelhart Cornelius",Masculino,65,0,1,TI352,Cherbourg,61.98
+PA56,Si,1ra clase,"Woolner, Mr. Hugh",Masculino,32,0,0,TI879,Southampton,35.5
+PA57,Si,2da clase,"Rugg, Miss. Emily",Femenino,21,0,0,TI197,Southampton,10.5
+PA58,No,3ra clase,"Novel, Mr. Mansouer",Masculino,28,0,0,TI537,Cherbourg,7.23
+PA59,Si,2da clase,"West, Miss. Constance Mirium",Femenino,5,1,2,TI440,Southampton,9.25
+PA60,No,3ra clase,"Goodwin, Master. William Frederick",Masculino,11,5,2,TI57,Southampton,7.82
+PA61,No,3ra clase,"Sirayanian, Mr. Orsen",Masculino,22,0,0,TI460,Cherbourg,7.23
+PA63,No,1ra clase,"Harris, Mr. Henry Birkhardt",Masculino,45,1,0,TI147,Southampton,41.74
+PA64,No,3ra clase,"Skoog, Master. Harald",Masculino,4,3,2,TI885,Southampton,4.65
+PA65,No,1ra clase,"Stewart, Mr. Albert A",Masculino,33,0,0,TI736,Cherbourg,27.72
+PA66,Si,3ra clase,"Moubarek, Master. Gerios",Masculino,29,1,1,TI722,Cherbourg,7.62
+PA67,Si,2da clase,"Nye, Mrs. (Elizabeth Ramell)",Femenino,29,0,0,TI629,Southampton,10.5
+PA68,No,3ra clase,"Crease, Mr. Ernest James",Masculino,19,0,0,TI620,Southampton,8.16
+PA69,Si,3ra clase,"Andersson, Miss. Erna Alexandra",Femenino,17,4,2,TI288,Southampton,7.92
+PA70,No,3ra clase,"Kink, Mr. Vincenz",Masculino,26,2,0,TI230,Southampton,8.66
+PA71,No,2da clase,"Jenkin, Mr. Stephen Curnow",Masculino,32,0,0,TI812,Southampton,10.5
+PA72,No,3ra clase,"Goodwin, Miss. Lillian Amy",Femenino,16,5,2,TI9,Southampton,7.82
+PA73,No,2da clase,"Hood, Mr. Ambrose Jr",Masculino,21,0,0,TI751,Southampton,14.7
+PA74,No,3ra clase,"Chronopoulos, Mr. Apostolos",Masculino,26,1,0,TI411,Cherbourg,14.45
+PA75,Si,3ra clase,"Bing, Mr. Lee",Masculino,32,0,0,TI94,Southampton,8.07
+PA76,No,3ra clase,"Moen, Mr. Sigurd Hansen",Masculino,25,0,0,TI803,Southampton,7.65
+PA77,No,3ra clase,"Staneff, Mr. Ivan",Masculino,30,0,0,TI72,Southampton,7.9
+PA78,No,3ra clase,"Moutal, Mr. Rahamin Haim",Masculino,32,0,0,TI515,Southampton,8.05
+PA79,Si,2da clase,"Caldwell, Master. Alden Gates",Masculino,0,0,2,TI110,Southampton,14.5
+PA80,Si,3ra clase,"Dowdell, Miss. Elizabeth",Femenino,30,0,0,TI461,Southampton,6.24
+PA81,No,3ra clase,"Waelens, Mr. Achille",Masculino,22,0,0,TI678,Southampton,9.0
+PA82,Si,3ra clase,"Sheerlinck, Mr. Jan Baptist",Masculino,29,0,0,TI401,Southampton,9.5
+PA83,Si,3ra clase,"McDermott, Miss. Brigdet Delia",Femenino,26,0,0,TI884,Queenstown,7.79
+PA84,No,1ra clase,"Carrau, Mr. Francisco M",Masculino,28,0,0,TI132,Southampton,47.1
+PA85,Si,2da clase,"Ilett, Miss. Bertha",Femenino,17,0,0,TI167,Southampton,10.5
+PA86,Si,3ra clase,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Femenino,33,3,0,TI575,Southampton,7.92
+PA87,No,3ra clase,"Ford, Mr. William Neal",Masculino,16,1,3,TI707,Southampton,8.59
+PA88,No,3ra clase,"Slocovski, Mr. Selman Francis",Masculino,32,0,0,TI655,Southampton,8.05
+PA89,Si,1ra clase,"Fortune, Miss. Mabel Helen",Femenino,23,3,2,TI33,Southampton,65.75
+PA90,No,3ra clase,"Celotti, Mr. Francesco",Masculino,24,0,0,TI864,Southampton,8.05
+PA91,No,3ra clase,"Christmann, Mr. Emil",Masculino,29,0,0,TI518,Southampton,8.05
+PA92,No,3ra clase,"Andreasson, Mr. Paul Edvin",Masculino,20,0,0,TI727,Southampton,7.85
+PA93,No,1ra clase,"Chaffee, Mr. Herbert Fuller",Masculino,46,1,0,TI549,Southampton,61.17
+PA94,No,3ra clase,"Dean, Mr. Bertram Frank",Masculino,26,1,2,TI647,Southampton,10.29
+PA95,No,3ra clase,"Coxon, Mr. Daniel",Masculino,59,0,0,TI86,Southampton,7.25
+PA96,No,3ra clase,"Shorney, Mr. Charles Joseph",Masculino,32,0,0,TI99,Southampton,8.05
+PA97,No,1ra clase,"Goldschmidt, Mr. George B",Masculino,71,0,0,TI478,Cherbourg,34.65
+PA98,Si,1ra clase,"Greenfield, Mr. William Bertram",Masculino,23,0,1,TI602,Cherbourg,63.36
+PA99,Si,2da clase,"Doling, Mrs. John T (Ada Julia Bone)",Femenino,34,0,1,TI802,Southampton,11.5
+PA100,No,2da clase,"Kantor, Mr. Sinai",Masculino,34,1,0,TI266,Southampton,13.0
+PA101,No,3ra clase,"Petranec, Miss. Matilda",Femenino,28,0,0,TI323,Southampton,7.9
+PA102,No,3ra clase,"Petroff, Mr. Pastcho (""""""""""""""""""""""""""""""""Pentcho"""""""""""""""""""""""""""""""")",Masculino,30,0,0,TI433,Southampton,7.9
+PA103,No,1ra clase,"White, Mr. Richard Frasar",Masculino,21,0,1,TI321,Southampton,38.64
+PA104,No,3ra clase,"Johansson, Mr. Gustaf Joel",Masculino,33,0,0,TI845,Southampton,8.65
+PA105,No,3ra clase,"Gustafsson, Mr. Anders Vilhelm",Masculino,37,2,0,TI361,Southampton,7.92
+PA106,No,3ra clase,"Mionoff, Mr. Stoytcho",Masculino,28,0,0,TI644,Southampton,7.9
+PA107,Si,3ra clase,"Salkjelsvik, Miss. Anna Kristine",Femenino,21,0,0,TI888,Southampton,7.65
+PA108,Si,3ra clase,"Moss, Mr. Albert Johan",Masculino,28,0,0,TI6,Southampton,7.78
+PA109,No,3ra clase,"Rekic, Mr. Tido",Masculino,38,0,0,TI476,Southampton,7.9
+PA110,Si,3ra clase,"Moran, Miss. Bertha",Femenino,29,1,0,TI171,Queenstown,8.05
+PA111,No,1ra clase,"Porter, Mr. Walter Chamberlain",Masculino,47,0,0,TI391,Southampton,26.0
+PA112,No,3ra clase,"Zabour, Miss. Hileni",Femenino,14,1,0,TI532,Cherbourg,7.23
+PA113,No,3ra clase,"Barton, Mr. David John",Masculino,22,0,0,TI48,Southampton,8.05
+PA114,No,3ra clase,"Jussila, Miss. Katriina",Femenino,20,1,0,TI221,Southampton,9.82
+PA115,No,3ra clase,"Attalah, Miss. Malake",Femenino,17,0,0,TI184,Cherbourg,7.23
+PA116,No,3ra clase,"Pekoniemi, Mr. Edvard",Masculino,21,0,0,TI872,Southampton,7.92
+PA117,No,3ra clase,"Connors, Mr. Patrick",Masculino,70,0,0,TI32,Queenstown,7.75
+PA118,No,2da clase,"Turpin, Mr. William John Robert",Masculino,29,1,0,TI5,Southampton,10.5
+PA119,No,1ra clase,"Baxter, Mr. Quigg Edmond",Masculino,24,0,1,TI697,Cherbourg,123.76
+PA120,No,3ra clase,"Andersson, Miss. Ellis Anna Maria",Femenino,2,4,2,TI261,Southampton,4.47
+PA121,No,2da clase,"Hickman, Mr. Stanley George",Masculino,21,2,0,TI125,Southampton,14.7
+PA122,No,3ra clase,"Moore, Mr. Leonard Charles",Masculino,32,0,0,TI292,Southampton,8.05
+PA123,No,2da clase,"Nasser, Mr. Nicholas",Masculino,32,1,0,TI578,Cherbourg,15.04
+PA124,Si,2da clase,"Webber, Miss. Susan",Femenino,32,0,0,TI558,Southampton,13.0
+PA125,No,1ra clase,"White, Mr. Percival Wayland",Masculino,54,0,1,TI414,Southampton,38.64
+PA126,Si,3ra clase,"Nicola-Yarred, Master. Elias",Masculino,12,1,0,TI142,Cherbourg,5.62
+PA127,No,3ra clase,"McMahon, Mr. Martin",Masculino,40,0,0,TI301,Queenstown,7.75
+PA128,Si,3ra clase,"Madsen, Mr. Fridtjof Arne",Masculino,24,0,0,TI748,Southampton,7.14
+PA129,Si,3ra clase,"Peter, Miss. Anna",Femenino,23,1,1,TI720,Cherbourg,11.18
+PA130,No,3ra clase,"Ekstrom, Mr. Johan",Masculino,45,0,0,TI176,Southampton,6.97
+PA131,No,3ra clase,"Drazenoic, Mr. Jozef",Masculino,33,0,0,TI165,Cherbourg,7.9
+PA132,No,3ra clase,"Coelho, Mr. Domingos Fernandeo",Masculino,20,0,0,TI495,Southampton,7.05
+PA133,No,3ra clase,"Robins, Mrs. Alexander A (Grace Charity Laury)",Femenino,47,1,0,TI227,Southampton,14.5
+PA134,Si,2da clase,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Femenino,29,1,0,TI59,Southampton,26.0
+PA135,No,2da clase,"Sobey, Mr. Samuel James Hayden",Masculino,25,0,0,TI688,Southampton,13.0
+PA136,No,2da clase,"Richard, Mr. Emile",Masculino,23,0,0,TI353,Cherbourg,15.05
+PA137,Si,1ra clase,"Newsom, Miss. Helen Monypeny",Femenino,19,0,2,TI442,Southampton,26.28
+PA138,No,1ra clase,"Futrelle, Mr. Jacques Heath",Masculino,37,1,0,TI271,Southampton,26.55
+PA139,No,3ra clase,"Osen, Mr. Olaf Elon",Masculino,16,0,0,TI31,Southampton,4.61
+PA140,No,1ra clase,"Giglio, Mr. Victor",Masculino,24,0,0,TI226,Cherbourg,39.6
+PA141,No,3ra clase,"Boulos, Mrs. Joseph (Sultana)",Femenino,32,0,2,TI177,Cherbourg,7.62
+PA142,Si,3ra clase,"Nysten, Miss. Anna Sofia",Femenino,22,0,0,TI505,Southampton,7.75
+PA143,Si,3ra clase,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Femenino,24,1,0,TI179,Southampton,7.92
+PA144,No,3ra clase,"Burke, Mr. Jeremiah",Masculino,19,0,0,TI766,Queenstown,6.75
+PA145,No,2da clase,"Andrew, Mr. Edgardo Samuel",Masculino,18,0,0,TI191,Southampton,11.5
+PA146,No,2da clase,"Nicholls, Mr. Joseph Charles",Masculino,19,1,1,TI769,Southampton,18.38
+PA147,Si,3ra clase,"Andersson, Mr. August Edvard (""""""""""""""""""""""""""""""""Wennerstrom"""""""""""""""""""""""""""""""")",Masculino,27,0,0,TI815,Southampton,7.8
+PA148,No,3ra clase,"Ford, Miss. Robina Maggie """"""""""""""""""""""""""""""""Ruby""""""""""""""""""""""""""""""""",Femenino,9,2,2,TI180,Southampton,8.59
+PA149,No,2da clase,"Navratil, Mr. Michel (""""""""""""""""""""""""""""""""Louis M Hoffman"""""""""""""""""""""""""""""""")",Masculino,36,0,2,TI163,Southampton,8.67
+PA150,No,2da clase,"Byles, Rev. Thomas Roussel Davids",Masculino,42,0,0,TI453,Southampton,13.0
+PA151,No,2da clase,"Bateman, Rev. Robert James",Masculino,51,0,0,TI257,Southampton,12.53
+PA152,Si,1ra clase,"Pears, Mrs. Thomas (Edith Wearne)",Femenino,22,1,0,TI438,Southampton,33.3
+PA153,No,3ra clase,"Meo, Mr. Alfonzo",Masculino,55,0,0,TI404,Southampton,8.05
+PA154,No,3ra clase,"van Billiard, Mr. Austin Blyler",Masculino,40,0,2,TI322,Southampton,14.5
+PA155,No,3ra clase,"Olsen, Mr. Ole Martin",Masculino,27,0,0,TI863,Southampton,7.31
+PA156,No,1ra clase,"Williams, Mr. Charles Duane",Masculino,51,0,1,TI304,Cherbourg,61.38
+PA157,Si,3ra clase,"Gilnagh, Miss. Katherine """"""""""""""""""""""""""""""""Katie""""""""""""""""""""""""""""""""",Femenino,16,0,0,TI216,Queenstown,7.73
+PA158,No,3ra clase,"Corn, Mr. Harry",Masculino,30,0,0,TI680,Southampton,8.05
+PA159,No,3ra clase,"Smiljanic, Mr. Mile",Masculino,31,0,0,TI667,Southampton,8.66
+PA160,No,3ra clase,"Sage, Master. Thomas Henry",Masculino,16,8,2,TI484,Southampton,9.94
+PA161,No,3ra clase,"Cribb, Mr. John Hatfield",Masculino,44,0,1,TI447,Southampton,16.1
+PA162,Si,2da clase,"Watt, Mrs. James (Elizabeth """"""""""""""""""""""""""""""""Bessie"""""""""""""""""""""""""""""""" Inglis Milne)",Femenino,40,0,0,TI487,Southampton,15.75
+PA163,No,3ra clase,"Bengtsson, Mr. John Viktor",Masculino,26,0,0,TI716,Southampton,7.78
+PA164,No,3ra clase,"Calic, Mr. Jovo",Masculino,17,0,0,TI199,Southampton,8.66
+PA165,No,3ra clase,"Panula, Master. Eino Viljami",Masculino,1,4,1,TI211,Southampton,6.61
+PA166,Si,3ra clase,"Goldsmith, Master. Frank John William """"""""""""""""""""""""""""""""Frankie""""""""""""""""""""""""""""""""",Masculino,9,0,2,TI529,Southampton,6.84
+PA167,Si,1ra clase,"Chibnall, Mrs. (Edith Martha Bowerman)",Femenino,26,0,1,TI58,Southampton,27.5
+PA168,No,3ra clase,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Femenino,45,1,4,TI703,Southampton,4.65
+PA169,No,1ra clase,"Baumann, Mr. John D",Masculino,30,0,0,TI808,Southampton,25.92
+PA170,No,3ra clase,"Ling, Mr. Lee",Masculino,28,0,0,TI455,Southampton,8.07
+PA171,No,1ra clase,"Van der hoef, Mr. Wyckoff",Masculino,61,0,0,TI393,Southampton,33.5
+PA172,No,3ra clase,"Rice, Master. Arthur",Masculino,4,4,1,TI763,Queenstown,5.82
+PA173,Si,3ra clase,"Johnson, Miss. Eleanor Ileen",Femenino,1,1,1,TI523,Southampton,3.71
+PA174,No,3ra clase,"Sivola, Mr. Antti Wilhelm",Masculino,21,0,0,TI140,Southampton,7.92
+PA175,No,1ra clase,"Smith, Mr. James Clinch",Masculino,56,0,0,TI635,Cherbourg,30.7
+PA176,No,3ra clase,"Klasen, Mr. Klas Albin",Masculino,18,1,1,TI645,Southampton,7.85
+PA177,No,3ra clase,"Lefebre, Master. Henry Forbes",Masculino,13,3,1,TI712,Southampton,6.37
+PA178,No,1ra clase,"Isham, Miss. Ann Elizabeth",Femenino,50,0,0,TI674,Cherbourg,28.71
+PA179,No,2da clase,"Hale, Mr. Reginald",Masculino,30,0,0,TI137,Southampton,13.0
+PA180,No,3ra clase,"Leonard, Mr. Lionel",Masculino,36,0,0,TI427,Southampton,0.0
+PA181,No,3ra clase,"Sage, Miss. Constance Gladys",Femenino,16,8,2,TI513,Southampton,9.94
+PA182,No,2da clase,"Pernot, Mr. Rene",Masculino,35,0,0,TI658,Cherbourg,15.05
+PA183,No,3ra clase,"Asplund, Master. Clarence Gustaf Hugo",Masculino,9,4,2,TI633,Southampton,7.85
+PA184,Si,2da clase,"Becker, Master. Richard F",Masculino,1,2,1,TI415,Southampton,19.5
+PA185,Si,3ra clase,"Kink-Heilmann, Miss. Luise Gretchen",Femenino,4,0,2,TI611,Southampton,22.02
+PA186,No,1ra clase,"Rood, Mr. Hugh Roscoe",Masculino,31,0,0,TI205,Southampton,50.0
+PA187,Si,3ra clase,"O'Brien, Mrs. Thomas (Johanna """"""""""""""""""""""""""""""""Hannah"""""""""""""""""""""""""""""""" Godfrey)",Femenino,35,1,0,TI570,Queenstown,7.75
+PA188,Si,1ra clase,"Romaine, Mr. Charles Hallace (""""""""""""""""""""""""""""""""Mr C Rolmane"""""""""""""""""""""""""""""""")",Masculino,45,0,0,TI39,Southampton,26.55
+PA189,No,3ra clase,"Bourke, Mr. John",Masculino,40,1,1,TI37,Queenstown,7.75
+PA190,No,3ra clase,"Turcin, Mr. Stjepan",Masculino,36,0,0,TI684,Southampton,7.9
+PA191,Si,2da clase,"Pinsky, Mrs. (Rosa)",Femenino,32,0,0,TI741,Southampton,13.0
+PA192,No,2da clase,"Carbines, Mr. William",Masculino,19,0,0,TI469,Southampton,13.0
+PA193,Si,3ra clase,"Andersen-Jensen, Miss. Carla Christine Nielsine",Femenino,19,1,0,TI406,Southampton,7.85
+PA194,Si,2da clase,"Navratil, Master. Michel M",Masculino,3,1,1,TI145,Southampton,8.67
+PA195,Si,1ra clase,"Brown, Mrs. James Joseph (Margaret Tobin)",Femenino,44,0,0,TI554,Cherbourg,27.72
+PA196,Si,1ra clase,"Lurette, Miss. Elise",Femenino,58,0,0,TI275,Cherbourg,73.26
+PA197,No,3ra clase,"Mernagh, Mr. Robert",Masculino,40,0,0,TI92,Queenstown,7.75
+PA198,No,3ra clase,"Olsen, Mr. Karl Siegwart Andreas",Masculino,42,0,1,TI731,Southampton,8.4
+PA199,Si,3ra clase,"Madigan, Miss. Margaret """"""""""""""""""""""""""""""""Maggie""""""""""""""""""""""""""""""""",Femenino,40,0,0,TI63,Queenstown,7.75
+PA200,No,2da clase,"Yrois, Miss. Henriette (""""""""""""""""""""""""""""""""Mrs Harbeck"""""""""""""""""""""""""""""""")",Femenino,24,0,0,TI866,Southampton,13.0
+PA201,No,3ra clase,"Vande Walle, Mr. Nestor Cyriel",Masculino,28,0,0,TI780,Southampton,9.5
+PA202,No,3ra clase,"Sage, Mr. Frederick",Masculino,16,8,2,TI519,Southampton,9.94
+PA203,No,3ra clase,"Johanson, Mr. Jakob Alfred",Masculino,34,0,0,TI91,Southampton,6.5
+PA204,No,3ra clase,"Youseff, Mr. Gerious",Masculino,45,0,0,TI632,Cherbourg,7.22
+PA205,Si,3ra clase,"Cohen, Mr. Gurshon """"""""""""""""""""""""""""""""Gus""""""""""""""""""""""""""""""""",Masculino,18,0,0,TI521,Southampton,8.05
+PA206,No,3ra clase,"Strom, Miss. Telma Matilda",Femenino,2,0,1,TI804,Southampton,5.23
+PA207,No,3ra clase,"Backstrom, Mr. Karl Alfred",Masculino,32,1,0,TI768,Southampton,7.92
+PA208,Si,3ra clase,"Albimona, Mr. Nassef Cassem",Masculino,26,0,0,TI399,Cherbourg,9.39
+PA209,Si,3ra clase,"Carr, Miss. Helen """"""""""""""""""""""""""""""""Ellen""""""""""""""""""""""""""""""""",Femenino,16,0,0,TI269,Queenstown,7.75
+PA210,Si,1ra clase,"Blank, Mr. Henry",Masculino,40,0,0,TI30,Cherbourg,31.0
+PA211,No,3ra clase,"Ali, Mr. Ahmed",Masculino,24,0,0,TI77,Southampton,7.05
+PA212,Si,2da clase,"Cameron, Miss. Clear Annie",Femenino,35,0,0,TI164,Southampton,21.0
+PA213,No,3ra clase,"Perkin, Mr. John Henry",Masculino,22,0,0,TI207,Southampton,7.25
+PA214,No,2da clase,"Givard, Mr. Hans Kristensen",Masculino,30,0,0,TI598,Southampton,13.0
+PA215,No,3ra clase,"Kiernan, Mr. Philip",Masculino,39,1,0,TI593,Queenstown,7.75
+PA216,Si,1ra clase,"Newell, Miss. Madeleine",Femenino,31,1,0,TI138,Cherbourg,37.76
+PA217,Si,3ra clase,"Honkanen, Miss. Eliina",Femenino,27,0,0,TI867,Southampton,7.92
+PA218,No,2da clase,"Jacobsohn, Mr. Sidney Samuel",Masculino,42,1,0,TI302,Southampton,13.5
+PA219,Si,1ra clase,"Bazzani, Miss. Albina",Femenino,32,0,0,TI817,Cherbourg,76.29
+PA220,No,2da clase,"Harris, Mr. Walter",Masculino,30,0,0,TI331,Southampton,10.5
+PA221,Si,3ra clase,"Sunderland, Mr. Victor Francis",Masculino,16,0,0,TI115,Southampton,8.05
+PA222,No,2da clase,"Bracken, Mr. James H",Masculino,27,0,0,TI405,Southampton,13.0
+PA223,No,3ra clase,"Green, Mr. George Henry",Masculino,51,0,0,TI258,Southampton,8.05
+PA224,No,3ra clase,"Nenkoff, Mr. Christo",Masculino,30,0,0,TI873,Southampton,7.9
+PA225,Si,1ra clase,"Hoyt, Mr. Frederick Maxfield",Masculino,38,1,0,TI724,Southampton,45.0
+PA226,No,3ra clase,"Berglund, Mr. Karl Ivar Sven",Masculino,22,0,0,TI825,Southampton,9.35
+PA227,Si,2da clase,"Mellors, Mr. William John",Masculino,19,0,0,TI229,Southampton,10.5
+PA228,No,3ra clase,"Lovell, Mr. John Hall (""""""""""""""""""""""""""""""""Henry"""""""""""""""""""""""""""""""")",Masculino,20,0,0,TI617,Southampton,7.25
+PA229,No,2da clase,"Fahlstrom, Mr. Arne Jonas",Masculino,18,0,0,TI793,Southampton,13.0
+PA230,No,3ra clase,"Lefebre, Miss. Mathilde",Femenino,13,3,1,TI639,Southampton,6.37
+PA231,Si,1ra clase,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Femenino,35,1,0,TI547,Southampton,41.74
+PA232,No,3ra clase,"Larsson, Mr. Bengt Edvin",Masculino,29,0,0,TI641,Southampton,7.78
+PA233,No,2da clase,"Sjostedt, Mr. Ernst Adolf",Masculino,59,0,0,TI298,Southampton,13.5
+PA234,Si,3ra clase,"Asplund, Miss. Lillian Gertrud",Femenino,5,4,2,TI540,Southampton,7.85
+PA235,No,2da clase,"Leyson, Mr. Robert William Norman",Masculino,24,0,0,TI371,Southampton,10.5
+PA236,No,3ra clase,"Harknett, Miss. Alice Phoebe",Femenino,27,0,0,TI659,Southampton,7.55
+PA237,No,2da clase,"Hold, Mr. Stephen",Masculino,44,1,0,TI700,Southampton,26.0
+PA238,Si,2da clase,"Collyer, Miss. Marjorie """"""""""""""""""""""""""""""""Lottie""""""""""""""""""""""""""""""""",Femenino,8,0,2,TI139,Southampton,8.75
+PA239,No,2da clase,"Pengelly, Mr. Frederick William",Masculino,19,0,0,TI544,Southampton,10.5
+PA240,No,2da clase,"Hunt, Mr. George Henry",Masculino,33,0,0,TI365,Southampton,12.28
+PA241,No,3ra clase,"Zabour, Miss. Thamine",Femenino,34,1,0,TI362,Cherbourg,7.23
+PA242,Si,3ra clase,"Murphy, Miss. Katherine """"""""""""""""""""""""""""""""Kate""""""""""""""""""""""""""""""""",Femenino,35,1,0,TI831,Queenstown,7.75
+PA243,No,2da clase,"Coleridge, Mr. Reginald Charles",Masculino,29,0,0,TI880,Southampton,10.5
+PA244,No,3ra clase,"Maenpaa, Mr. Matti Alexanteri",Masculino,22,0,0,TI24,Southampton,7.12
+PA245,No,3ra clase,"Attalah, Mr. Sleiman",Masculino,30,0,0,TI254,Cherbourg,7.22
+PA246,No,1ra clase,"Minahan, Dr. William Edward",Masculino,44,2,0,TI251,Queenstown,45.0
+PA247,No,3ra clase,"Lindahl, Miss. Agda Thorilda Viktoria",Femenino,25,0,0,TI835,Southampton,7.78
+PA248,Si,2da clase,"Hamalainen, Mrs. William (Anna)",Femenino,24,0,2,TI787,Southampton,7.25
+PA249,Si,1ra clase,"Beckwith, Mr. Richard Leonard",Masculino,37,1,1,TI366,Southampton,26.28
+PA250,No,2da clase,"Carter, Rev. Ernest Courtenay",Masculino,54,1,0,TI648,Southampton,13.0
+PA251,No,3ra clase,"Reed, Mr. James George",Masculino,27,0,0,TI376,Southampton,7.25
+PA252,No,3ra clase,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Femenino,29,1,1,TI865,Southampton,5.23
+PA253,No,1ra clase,"Stead, Mr. William Thomas",Masculino,62,0,0,TI35,Southampton,26.55
+PA254,No,3ra clase,"Lobb, Mr. William Arthur",Masculino,30,1,0,TI841,Southampton,8.05
+PA255,No,3ra clase,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Femenino,41,0,2,TI889,Southampton,10.11
+PA256,Si,3ra clase,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Femenino,29,0,2,TI573,Cherbourg,15.25
+PA257,Si,1ra clase,"Thorne, Mrs. Gertrude Maybelle",Femenino,25,0,0,TI454,Cherbourg,79.2
+PA258,Si,1ra clase,"Cherry, Miss. Gladys",Femenino,30,0,0,TI373,Southampton,28.83
+PA259,Si,1ra clase,"Ward, Miss. Anna",Femenino,35,0,0,TI328,Cherbourg,170.78
+PA260,Si,2da clase,"Parrish, Mrs. (Lutie Davis)",Femenino,50,0,1,TI76,Southampton,13.0
+PA261,No,3ra clase,"Smith, Mr. Thomas",Masculino,40,0,0,TI772,Queenstown,7.75
+PA262,Si,3ra clase,"Asplund, Master. Edvin Rojj Felix",Masculino,3,4,2,TI562,Southampton,7.85
+PA263,No,1ra clase,"Taussig, Mr. Emil",Masculino,52,1,1,TI857,Southampton,26.55
+PA264,No,1ra clase,"Harrison, Mr. William",Masculino,40,0,0,TI159,Southampton,0.0
+PA265,No,3ra clase,"Henry, Miss. Delia",Femenino,40,0,0,TI874,Queenstown,7.75
+PA266,No,2da clase,"Reeves, Mr. David",Masculino,36,0,0,TI837,Southampton,10.5
+PA267,No,3ra clase,"Panula, Mr. Ernesti Arvid",Masculino,16,4,1,TI124,Southampton,6.61
+PA268,Si,3ra clase,"Persson, Mr. Ernst Ulrik",Masculino,25,1,0,TI178,Southampton,7.78
+PA269,Si,1ra clase,"Graham, Mrs. William Thompson (Edith Junkins)",Femenino,58,0,1,TI339,Southampton,51.15
+PA270,Si,1ra clase,"Bissette, Miss. Amelia",Femenino,35,0,0,TI223,Southampton,45.21
+PA271,No,1ra clase,"Cairns, Mr. Alexander",Masculino,34,0,0,TI464,Southampton,15.5
+PA272,Si,3ra clase,"Tornquist, Mr. William Henry",Masculino,25,0,0,TI781,Southampton,0.0
+PA273,Si,2da clase,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Femenino,41,0,1,TI589,Southampton,9.75
+PA274,No,1ra clase,"Natsch, Mr. Charles H",Masculino,45,0,1,TI490,Cherbourg,29.7
+PA275,Si,3ra clase,"Healy, Miss. Hanora """"""""""""""""""""""""""""""""Nora""""""""""""""""""""""""""""""""",Femenino,40,0,0,TI627,Queenstown,7.75
+PA276,Si,1ra clase,"Andrews, Miss. Kornelia Theodosia",Femenino,63,1,0,TI792,Southampton,25.99
+PA277,No,3ra clase,"Lindblom, Miss. Augusta Charlotta",Femenino,45,0,0,TI699,Southampton,7.75
+PA278,No,2da clase,"Parkes, Mr. Francis """"""""""""""""""""""""""""""""Frank""""""""""""""""""""""""""""""""",Masculino,29,0,0,TI654,Southampton,0.0
+PA279,No,3ra clase,"Rice, Master. Eric",Masculino,7,4,1,TI153,Queenstown,5.82
+PA280,Si,3ra clase,"Abbott, Mrs. Stanton (Rosa Hunt)",Femenino,35,1,1,TI289,Southampton,10.12
+PA281,No,3ra clase,"Duane, Mr. Frank",Masculino,65,0,0,TI190,Queenstown,7.75
+PA282,No,3ra clase,"Olsson, Mr. Nils Johan Goransson",Masculino,28,0,0,TI38,Southampton,7.85
+PA283,No,3ra clase,"de Pelsmaeker, Mr. Alfons",Masculino,16,0,0,TI295,Southampton,9.5
+PA284,Si,3ra clase,"Dorking, Mr. Edward Arthur",Masculino,19,0,0,TI776,Southampton,8.05
+PA285,No,1ra clase,"Smith, Mr. Richard William",Masculino,30,0,0,TI242,Southampton,26.0
+PA286,No,3ra clase,"Stankovic, Mr. Ivan",Masculino,33,0,0,TI119,Cherbourg,8.66
+PA287,Si,3ra clase,"de Mulder, Mr. Theodore",Masculino,30,0,0,TI97,Southampton,9.5
+PA288,No,3ra clase,"Naidenoff, Mr. Penko",Masculino,22,0,0,TI293,Southampton,7.9
+PA289,Si,2da clase,"Hosono, Mr. Masabumi",Masculino,42,0,0,TI368,Southampton,13.0
+PA290,Si,3ra clase,"Connolly, Miss. Kate",Femenino,22,0,0,TI239,Queenstown,7.75
+PA291,Si,1ra clase,"Barber, Miss. Ellen """"""""""""""""""""""""""""""""Nellie""""""""""""""""""""""""""""""""",Femenino,26,0,0,TI721,Southampton,39.42
+PA292,Si,1ra clase,"Bishop, Mrs. Dickinson H (Helen Walton)",Femenino,19,1,0,TI135,Cherbourg,45.54
+PA293,No,2da clase,"Levy, Mr. Rene Jacques",Masculino,36,0,0,TI661,Cherbourg,12.88
+PA294,No,3ra clase,"Haas, Miss. Aloisia",Femenino,24,0,0,TI146,Southampton,8.85
+PA295,No,3ra clase,"Mineff, Mr. Ivan",Masculino,24,0,0,TI621,Southampton,7.9
+PA296,No,1ra clase,"Lewy, Mr. Ervin G",Masculino,33,0,0,TI522,Cherbourg,27.72
+PA297,No,3ra clase,"Hanna, Mr. Mansour",Masculino,23,0,0,TI213,Cherbourg,7.23
+PA298,No,1ra clase,"Allison, Miss. Helen Loraine",Femenino,2,1,2,TI726,Southampton,37.89
+PA299,Si,1ra clase,"Saalfeld, Mr. Adolphe",Masculino,32,0,0,TI504,Southampton,30.5
+PA300,Si,1ra clase,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Femenino,50,0,1,TI294,Cherbourg,123.76
+PA301,Si,3ra clase,"Kelly, Miss. Anna Katherine """"""""""""""""""""""""""""""""Annie Kate""""""""""""""""""""""""""""""""",Femenino,40,0,0,TI501,Queenstown,7.75
+PA302,Si,3ra clase,"McCoy, Mr. Bernard",Masculino,27,2,0,TI25,Queenstown,11.62
+PA303,No,3ra clase,"Johnson, Mr. William Cahoone Jr",Masculino,19,0,0,TI15,Southampton,0.0
+PA304,Si,2da clase,"Keane, Miss. Nora A",Femenino,30,0,0,TI260,Queenstown,12.35
+PA305,No,3ra clase,"Williams, Mr. Howard Hugh """"""""""""""""""""""""""""""""Harry""""""""""""""""""""""""""""""""",Masculino,32,0,0,TI477,Southampton,8.05
+PA306,Si,1ra clase,"Allison, Master. Hudson Trevor",Masculino,0,1,2,TI278,Southampton,37.89
+PA307,Si,1ra clase,"Fleming, Miss. Margaret",Femenino,26,0,0,TI120,Cherbourg,27.72
+PA308,Si,1ra clase,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Femenino,17,1,0,TI44,Cherbourg,54.45
+PA309,No,2da clase,"Abelson, Mr. Samuel",Masculino,30,1,0,TI881,Cherbourg,12.0
+PA310,Si,1ra clase,"Francatelli, Miss. Laura Mabel",Femenino,30,0,0,TI795,Cherbourg,28.46
+PA311,Si,1ra clase,"Hays, Miss. Margaret Bechstein",Femenino,24,0,0,TI830,Cherbourg,41.58
+PA312,Si,1ra clase,"Ryerson, Miss. Emily Borie",Femenino,18,2,2,TI538,Cherbourg,131.19
+PA313,No,2da clase,"Lahtinen, Mrs. William (Anna Sylfven)",Femenino,26,1,1,TI590,Southampton,26.0
+PA314,No,3ra clase,"Hendekovic, Mr. Ignjac",Masculino,28,0,0,TI618,Southampton,7.9
+PA315,No,2da clase,"Hart, Mr. Benjamin",Masculino,43,1,1,TI811,Southampton,8.75
+PA316,Si,3ra clase,"Nilsson, Miss. Helmina Josefina",Femenino,26,0,0,TI511,Southampton,7.85
+PA317,Si,2da clase,"Kantor, Mrs. Sinai (Miriam Sternin)",Femenino,24,1,0,TI398,Southampton,13.0
+PA318,No,2da clase,"Moraweck, Dr. Ernest",Masculino,54,0,0,TI672,Southampton,14.0
+PA319,Si,1ra clase,"Wick, Miss. Mary Natalie",Femenino,31,0,2,TI488,Southampton,82.43
+PA320,Si,1ra clase,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Femenino,40,1,1,TI580,Cherbourg,67.25
+PA321,No,3ra clase,"Dennis, Mr. Samuel",Masculino,22,0,0,TI385,Southampton,7.25
+PA322,No,3ra clase,"Danoff, Mr. Yoto",Masculino,27,0,0,TI342,Southampton,7.9
+PA323,Si,2da clase,"Slayter, Miss. Hilda Mary",Femenino,30,0,0,TI782,Queenstown,12.35
+PA324,Si,2da clase,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Femenino,22,1,1,TI666,Southampton,14.5
+PA325,No,3ra clase,"Sage, Mr. George John Jr",Masculino,16,8,2,TI104,Southampton,9.94
+PA326,Si,1ra clase,"Young, Miss. Marie Grice",Femenino,36,0,0,TI500,Cherbourg,45.21
+PA327,No,3ra clase,"Nysveen, Mr. Johan Hansen",Masculino,61,0,0,TI710,Southampton,6.24
+PA328,Si,2da clase,"Ball, Mrs. (Ada E Hall)",Femenino,36,0,0,TI601,Southampton,13.0
+PA329,Si,3ra clase,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Femenino,31,1,1,TI788,Southampton,6.84
+PA330,Si,1ra clase,"Hippach, Miss. Jean Gertrude",Femenino,16,0,1,TI649,Cherbourg,28.99
+PA331,Si,3ra clase,"McCoy, Miss. Agnes",Femenino,27,2,0,TI668,Queenstown,11.62
+PA332,No,1ra clase,"Partner, Mr. Austen",Masculino,45,0,0,TI20,Southampton,28.5
+PA333,No,1ra clase,"Graham, Mr. George Edward",Masculino,38,0,1,TI187,Southampton,51.15
+PA334,No,3ra clase,"Vander Planke, Mr. Leo Edmondus",Masculino,16,2,0,TI267,Southampton,9.0
+PA335,Si,1ra clase,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Femenino,32,1,0,TI396,Southampton,66.83
+PA336,No,3ra clase,"Denkoff, Mr. Mitto",Masculino,30,0,0,TI579,Southampton,7.9
+PA337,No,1ra clase,"Pears, Mr. Thomas Clinton",Masculino,29,1,0,TI794,Southampton,33.3
+PA338,Si,1ra clase,"Burns, Miss. Elizabeth Margaret",Femenino,41,0,0,TI309,Cherbourg,67.25
+PA339,Si,3ra clase,"Dahl, Mr. Karl Edwart",Masculino,45,0,0,TI96,Southampton,8.05
+PA340,No,1ra clase,"Blackwell, Mr. Stephen Weart",Masculino,45,0,0,TI158,Southampton,35.5
+PA341,Si,2da clase,"Navratil, Master. Edmond Roger",Masculino,2,1,1,TI871,Southampton,8.67
+PA342,Si,1ra clase,"Fortune, Miss. Alice Elizabeth",Femenino,24,3,2,TI215,Southampton,65.75
+PA343,No,2da clase,"Collander, Mr. Erik Gustaf",Masculino,28,0,0,TI759,Southampton,13.0
+PA344,No,2da clase,"Sedgwick, Mr. Charles Frederick Waddington",Masculino,25,0,0,TI117,Southampton,13.0
+PA345,No,2da clase,"Fox, Mr. Stanley Hubert",Masculino,36,0,0,TI486,Southampton,13.0
+PA346,Si,2da clase,"Brown, Miss. Amelia """"""""""""""""""""""""""""""""Mildred""""""""""""""""""""""""""""""""",Femenino,24,0,0,TI764,Southampton,13.0
+PA347,Si,2da clase,"Smith, Miss. Marion Elsie",Femenino,40,0,0,TI195,Southampton,13.0
+PA348,Si,3ra clase,"Davison, Mrs. Thomas Henry (Mary E Finck)",Femenino,30,1,0,TI833,Southampton,16.1
+PA349,Si,3ra clase,"Coutts, Master. William Loch """"""""""""""""""""""""""""""""William""""""""""""""""""""""""""""""""",Masculino,3,1,1,TI134,Southampton,7.95
+PA350,No,3ra clase,"Dimic, Mr. Jovan",Masculino,42,0,0,TI541,Southampton,8.66
+PA351,No,3ra clase,"Odahl, Mr. Nils Martin",Masculino,23,0,0,TI610,Southampton,9.22
+PA352,No,1ra clase,"Williams-Lambert, Mr. Fletcher Fellows",Masculino,34,0,0,TI693,Southampton,35.0
+PA353,No,3ra clase,"Elias, Mr. Tannous",Masculino,15,1,1,TI238,Cherbourg,7.23
+PA354,No,3ra clase,"Arnold-Franchi, Mr. Josef",Masculino,25,1,0,TI11,Southampton,8.9
+PA355,No,3ra clase,"Yousif, Mr. Wazli",Masculino,38,0,0,TI786,Cherbourg,7.22
+PA356,No,3ra clase,"Vanden Steen, Mr. Leo Peter",Masculino,28,0,0,TI264,Southampton,9.5
+PA357,Si,1ra clase,"Bowerman, Miss. Elsie Edith",Femenino,22,0,1,TI643,Southampton,27.5
+PA358,No,2da clase,"Funk, Miss. Annie Clemmer",Femenino,38,0,0,TI423,Southampton,13.0
+PA359,Si,3ra clase,"McGovern, Miss. Mary",Femenino,28,0,0,TI90,Queenstown,7.88
+PA360,Si,3ra clase,"Mockler, Miss. Helen Mary """"""""""""""""""""""""""""""""Ellie""""""""""""""""""""""""""""""""",Femenino,28,0,0,TI548,Queenstown,7.88
+PA361,No,3ra clase,"Skoog, Mr. Wilhelm",Masculino,40,1,4,TI754,Southampton,4.65
+PA362,No,2da clase,"del Carlo, Mr. Sebastiano",Masculino,29,1,0,TI499,Cherbourg,27.72
+PA363,No,3ra clase,"Barbara, Mrs. (Catherine David)",Femenino,45,0,1,TI572,Cherbourg,7.23
+PA364,No,3ra clase,"Asim, Mr. Adola",Masculino,35,0,0,TI233,Southampton,7.05
+PA365,No,3ra clase,"O'Brien, Mr. Thomas",Masculino,35,1,0,TI517,Queenstown,7.75
+PA366,No,3ra clase,"Adahl, Mr. Mauritz Nils Martin",Masculino,30,0,0,TI773,Southampton,7.25
+PA367,Si,1ra clase,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Femenino,60,1,0,TI466,Cherbourg,75.25
+PA368,Si,3ra clase,"Moussa, Mrs. (Mantoura Boulos)",Femenino,27,0,0,TI718,Cherbourg,7.23
+PA369,Si,3ra clase,"Jermyn, Miss. Annie",Femenino,40,0,0,TI356,Queenstown,7.75
+PA370,Si,1ra clase,"Aubart, Mme. Leontine Pauline",Femenino,24,0,0,TI56,Cherbourg,34.65
+PA371,Si,1ra clase,"Harder, Mr. George Achilles",Masculino,25,1,0,TI820,Cherbourg,55.44
+PA372,No,3ra clase,"Wiklund, Mr. Jakob Alfred",Masculino,18,1,0,TI446,Southampton,6.5
+PA373,No,3ra clase,"Beavan, Mr. William Thomas",Masculino,19,0,0,TI377,Southampton,8.05
+PA374,No,1ra clase,"Ringhini, Mr. Sante",Masculino,22,0,0,TI409,Cherbourg,45.21
+PA375,No,3ra clase,"Palsson, Miss. Stina Viola",Femenino,3,3,1,TI299,Southampton,5.27
+PA376,Si,1ra clase,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Femenino,27,1,0,TI141,Cherbourg,41.09
+PA377,Si,3ra clase,"Landergren, Miss. Aurora Adelia",Femenino,22,0,0,TI68,Southampton,7.25
+PA378,No,1ra clase,"Widener, Mr. Harry Elkins",Masculino,27,0,2,TI274,Cherbourg,211.5
+PA379,No,3ra clase,"Betros, Mr. Tannous",Masculino,20,0,0,TI449,Cherbourg,4.01
+PA380,No,3ra clase,"Gustafsson, Mr. Karl Gideon",Masculino,19,0,0,TI631,Southampton,7.78
+PA381,Si,1ra clase,"Bidois, Miss. Rosalie",Femenino,42,0,0,TI375,Cherbourg,56.88
+PA382,Si,3ra clase,"Nakid, Miss. Maria (""""""""""""""""""""""""""""""""Mary"""""""""""""""""""""""""""""""")",Femenino,1,0,2,TI3,Cherbourg,7.87
+PA383,No,3ra clase,"Tikkanen, Mr. Juho",Masculino,32,0,0,TI337,Southampton,7.92
+PA384,Si,1ra clase,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Femenino,35,1,0,TI424,Southampton,26.0
+PA385,No,3ra clase,"Plotcharsky, Mr. Vasil",Masculino,30,0,0,TI823,Southampton,7.9
+PA386,No,2da clase,"Davies, Mr. Charles Henry",Masculino,18,0,0,TI173,Southampton,14.7
+PA387,No,3ra clase,"Goodwin, Master. Sidney Leonard",Masculino,1,5,2,TI785,Southampton,7.82
+PA388,Si,2da clase,"Buss, Miss. Kate",Femenino,36,0,0,TI69,Southampton,13.0
+PA389,No,3ra clase,"Sadlier, Mr. Matthew",Masculino,27,0,0,TI34,Queenstown,7.73
+PA390,Si,2da clase,"Lehmann, Miss. Bertha",Femenino,17,0,0,TI313,Cherbourg,12.0
+PA391,Si,1ra clase,"Carter, Mr. William Ernest",Masculino,36,1,2,TI828,Southampton,30.0
+PA392,Si,3ra clase,"Jansson, Mr. Carl Olof",Masculino,21,0,0,TI536,Southampton,7.8
+PA393,No,3ra clase,"Gustafsson, Mr. Johan Birger",Masculino,28,2,0,TI443,Southampton,7.92
+PA394,Si,1ra clase,"Newell, Miss. Marjorie",Femenino,23,1,0,TI188,Cherbourg,37.76
+PA395,Si,3ra clase,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Femenino,24,0,2,TI121,Southampton,8.35
+PA396,No,3ra clase,"Johansson, Mr. Erik",Masculino,22,0,0,TI625,Southampton,7.8
+PA397,No,3ra clase,"Olsson, Miss. Elina",Femenino,31,0,0,TI319,Southampton,7.85
+PA398,No,2da clase,"McKane, Mr. Peter David",Masculino,46,0,0,TI677,Southampton,13.0
+PA399,No,2da clase,"Pain, Dr. Alfred",Masculino,23,0,0,TI314,Southampton,10.5
+PA400,Si,2da clase,"Trout, Mrs. William H (Jessie L)",Femenino,28,0,0,TI534,Southampton,12.65
+PA401,Si,3ra clase,"Niskanen, Mr. Juha",Masculino,39,0,0,TI429,Southampton,7.92
+PA402,No,3ra clase,"Adams, Mr. John",Masculino,26,0,0,TI270,Southampton,8.05
+PA403,No,3ra clase,"Jussila, Miss. Mari Aina",Femenino,21,1,0,TI310,Southampton,9.82
+PA404,No,3ra clase,"Hakkarainen, Mr. Pekka Pietari",Masculino,28,1,0,TI16,Southampton,7.92
+PA405,No,3ra clase,"Oreskovic, Miss. Marija",Femenino,20,0,0,TI594,Southampton,8.66
+PA406,No,2da clase,"Gale, Mr. Shadrach",Masculino,34,1,0,TI652,Southampton,21.0
+PA407,No,3ra clase,"Widegren, Mr. Carl/Charles Peter",Masculino,51,0,0,TI439,Southampton,7.75
+PA408,Si,2da clase,"Richards, Master. William Rowe",Masculino,3,1,1,TI472,Southampton,6.25
+PA409,No,3ra clase,"Birkeland, Mr. Hans Martin Monsen",Masculino,21,0,0,TI219,Southampton,7.78
+PA410,No,3ra clase,"Lefebre, Miss. Ida",Femenino,13,3,1,TI878,Southampton,6.37
+PA411,No,3ra clase,"Sdycoff, Mr. Todor",Masculino,30,0,0,TI702,Southampton,7.9
+PA412,No,3ra clase,"Hart, Mr. Henry",Masculino,29,0,0,TI660,Queenstown,6.86
+PA413,Si,1ra clase,"Minahan, Miss. Daisy E",Femenino,33,1,0,TI426,Queenstown,45.0
+PA414,No,2da clase,"Cunningham, Mr. Alfred Fleming",Masculino,29,0,0,TI210,Southampton,0.0
+PA415,Si,3ra clase,"Sundman, Mr. Johan Julian",Masculino,44,0,0,TI470,Southampton,7.92
+PA416,No,3ra clase,"Meek, Mrs. Thomas (Annie Louise Rowley)",Femenino,32,0,0,TI181,Southampton,8.05
+PA417,Si,2da clase,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Femenino,34,1,1,TI676,Southampton,32.5
+PA418,Si,2da clase,"Silven, Miss. Lyyli Karoliina",Femenino,18,0,2,TI40,Southampton,13.0
+PA419,No,2da clase,"Matthews, Mr. William John",Masculino,30,0,0,TI586,Southampton,13.0
+PA420,No,3ra clase,"Van Impe, Miss. Catharina",Femenino,10,0,2,TI225,Southampton,8.05
+PA421,No,3ra clase,"Gheorgheff, Mr. Stanio",Masculino,30,0,0,TI374,Cherbourg,7.9
+PA422,No,3ra clase,"Charters, Mr. David",Masculino,21,0,0,TI582,Queenstown,7.73
+PA423,No,3ra clase,"Zimmerman, Mr. Leo",Masculino,29,0,0,TI296,Southampton,7.88
+PA424,No,3ra clase,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Femenino,28,1,1,TI85,Southampton,7.2
+PA425,No,3ra clase,"Rosblom, Mr. Viktor Richard",Masculino,18,1,1,TI827,Southampton,10.11
+PA426,No,3ra clase,"Wiseman, Mr. Phillippe",Masculino,27,0,0,TI789,Southampton,7.25
+PA427,Si,2da clase,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Femenino,28,1,0,TI346,Southampton,26.0
+PA428,Si,2da clase,"Phillips, Miss. Kate Florence (""""""""""""""""""""""""""""""""Mrs Kate Louise Phillips Marshall"""""""""""""""""""""""""""""""")",Femenino,19,0,0,TI336,Southampton,13.0
+PA429,No,3ra clase,"Flynn, Mr. James",Masculino,40,0,0,TI740,Queenstown,7.75
+PA430,Si,3ra clase,"Pickard, Mr. Berk (Berk Trembisky)",Masculino,32,0,0,TI623,Southampton,8.05
+PA431,Si,1ra clase,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Masculino,28,0,0,TI733,Southampton,26.55
+PA432,Si,3ra clase,"Thorneycroft, Mrs. Percival (Florence Kate White)",Femenino,30,1,0,TI662,Southampton,8.05
+PA433,Si,2da clase,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Femenino,42,1,0,TI29,Southampton,26.0
+PA434,No,3ra clase,"Kallio, Mr. Nikolai Erland",Masculino,17,0,0,TI148,Southampton,7.12
+PA435,No,1ra clase,"Silvey, Mr. William Baird",Masculino,50,1,0,TI883,Southampton,27.95
+PA436,Si,1ra clase,"Carter, Miss. Lucile Polk",Femenino,14,1,2,TI508,Southampton,30.0
+PA437,No,3ra clase,"Ford, Miss. Doolina Margaret """"""""""""""""""""""""""""""""Daisy""""""""""""""""""""""""""""""""",Femenino,21,2,2,TI779,Southampton,8.59
+PA438,Si,2da clase,"Richards, Mrs. Sidney (Emily Hocking)",Femenino,24,2,3,TI527,Southampton,6.25
+PA439,No,1ra clase,"Fortune, Mr. Mark",Masculino,64,1,4,TI628,Southampton,65.75
+PA440,No,2da clase,"Kvillner, Mr. Johan Henrik Johannesson",Masculino,31,0,0,TI809,Southampton,10.5
+PA441,Si,2da clase,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Femenino,45,1,1,TI846,Southampton,8.75
+PA442,No,3ra clase,"Hampe, Mr. Leon",Masculino,20,0,0,TI564,Southampton,9.5
+PA443,No,3ra clase,"Petterson, Mr. Johan Emil",Masculino,25,1,0,TI563,Southampton,7.78
+PA444,Si,2da clase,"Reynaldo, Ms. Encarnacion",Femenino,28,0,0,TI81,Southampton,13.0
+PA445,Si,3ra clase,"Johannesen-Bratthammer, Mr. Bernt",Masculino,30,0,0,TI47,Southampton,8.11
+PA446,Si,1ra clase,"Dodge, Master. Washington",Masculino,4,0,2,TI642,Southampton,81.86
+PA447,Si,2da clase,"Mellinger, Miss. Madeleine Violet",Femenino,13,0,1,TI539,Southampton,9.75
+PA448,Si,1ra clase,"Seward, Mr. Frederic Kimber",Masculino,34,0,0,TI129,Southampton,26.55
+PA449,Si,3ra clase,"Baclini, Miss. Marie Catherine",Femenino,5,2,1,TI126,Cherbourg,4.81
+PA450,Si,1ra clase,"Peuchen, Major. Arthur Godfrey",Masculino,52,0,0,TI161,Southampton,30.5
+PA451,No,2da clase,"West, Mr. Edwy Arthur",Masculino,36,1,2,TI445,Southampton,9.25
+PA452,No,3ra clase,"Hagland, Mr. Ingvald Olai Olsen",Masculino,31,1,0,TI217,Southampton,19.97
+PA453,No,1ra clase,"Foreman, Mr. Benjamin Laventall",Masculino,30,0,0,TI54,Cherbourg,27.75
+PA454,Si,1ra clase,"Goldenberg, Mr. Samuel L",Masculino,49,1,0,TI669,Cherbourg,44.55
+PA455,No,3ra clase,"Peduzzi, Mr. Joseph",Masculino,32,0,0,TI567,Southampton,8.05
+PA456,Si,3ra clase,"Jalsevac, Mr. Ivan",Masculino,29,0,0,TI463,Cherbourg,7.9
+PA457,No,1ra clase,"Millet, Mr. Francis Davis",Masculino,65,0,0,TI98,Southampton,26.55
+PA458,Si,1ra clase,"Kenyon, Mrs. Frederick R (Marion)",Femenino,35,1,0,TI848,Southampton,51.86
+PA459,Si,2da clase,"Toomey, Miss. Ellen",Femenino,50,0,0,TI285,Southampton,10.5
+PA460,No,3ra clase,"O'Connor, Mr. Maurice",Masculino,40,0,0,TI185,Queenstown,7.75
+PA461,Si,1ra clase,"Anderson, Mr. Harry",Masculino,48,0,0,TI862,Southampton,26.55
+PA462,No,3ra clase,"Morley, Mr. William",Masculino,34,0,0,TI775,Southampton,8.05
+PA463,No,1ra clase,"Gee, Mr. Arthur H",Masculino,47,0,0,TI526,Southampton,38.5
+PA464,No,2da clase,"Milling, Mr. Jacob Christian",Masculino,48,0,0,TI144,Southampton,13.0
+PA465,No,3ra clase,"Maisner, Mr. Simon",Masculino,32,0,0,TI78,Southampton,8.05
+PA466,No,3ra clase,"Goncalves, Mr. Manuel Estanslas",Masculino,38,0,0,TI347,Southampton,7.05
+PA467,No,2da clase,"Campbell, Mr. William",Masculino,29,0,0,TI243,Southampton,0.0
+PA468,No,1ra clase,"Smart, Mr. John Montgomery",Masculino,56,0,0,TI559,Southampton,26.55
+PA469,No,3ra clase,"Scanlan, Mr. James",Masculino,27,0,0,TI372,Queenstown,7.72
+PA470,Si,3ra clase,"Baclini, Miss. Helene Barbara",Femenino,0,2,1,TI307,Cherbourg,4.81
+PA471,No,3ra clase,"Keefe, Mr. Arthur",Masculino,27,0,0,TI483,Southampton,7.25
+PA472,No,3ra clase,"Cacic, Mr. Luka",Masculino,38,0,0,TI870,Southampton,8.66
+PA473,Si,2da clase,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Femenino,33,1,2,TI206,Southampton,9.25
+PA474,Si,2da clase,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Femenino,23,0,0,TI791,Cherbourg,13.79
+PA475,No,3ra clase,"Strandberg, Miss. Ida Sofia",Femenino,22,0,0,TI576,Southampton,9.84
+PA476,No,1ra clase,"Clifford, Mr. George Quincy",Masculino,30,0,0,TI630,Southampton,26.0
+PA477,No,2da clase,"Renouf, Mr. Peter Henry",Masculino,34,1,0,TI103,Southampton,10.5
+PA478,No,3ra clase,"Braund, Mr. Lewis Richard",Masculino,29,1,0,TI200,Southampton,7.05
+PA479,No,3ra clase,"Karlsson, Mr. Nils August",Masculino,22,0,0,TI136,Southampton,7.52
+PA480,Si,3ra clase,"Hirvonen, Miss. Hildur E",Femenino,2,0,1,TI160,Southampton,12.29
+PA481,No,3ra clase,"Goodwin, Master. Harold Victor",Masculino,9,5,2,TI692,Southampton,7.82
+PA482,No,2da clase,"Frost, Mr. Anthony Wood """"""""""""""""""""""""""""""""Archie""""""""""""""""""""""""""""""""",Masculino,29,0,0,TI574,Southampton,0.0
+PA483,No,3ra clase,"Rouse, Mr. Richard Henry",Masculino,50,0,0,TI317,Southampton,8.05
+PA484,Si,3ra clase,"Turkula, Mrs. (Hedwig)",Femenino,63,0,0,TI856,Southampton,9.59
+PA485,Si,1ra clase,"Bishop, Mr. Dickinson H",Masculino,25,1,0,TI588,Cherbourg,45.54
+PA486,No,3ra clase,"Lefebre, Miss. Jeannie",Femenino,13,3,1,TI272,Southampton,6.37
+PA487,Si,1ra clase,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Femenino,35,1,0,TI127,Southampton,45.0
+PA488,No,1ra clase,"Kent, Mr. Edward Austin",Masculino,58,0,0,TI13,Cherbourg,29.7
+PA489,No,3ra clase,"Somerton, Mr. Francis William",Masculino,30,0,0,TI252,Southampton,8.05
+PA490,Si,3ra clase,"Coutts, Master. Eden Leslie """"""""""""""""""""""""""""""""Neville""""""""""""""""""""""""""""""""",Masculino,9,1,1,TI685,Southampton,7.95
+PA491,No,3ra clase,"Hagland, Mr. Konrad Mathias Reiersen",Masculino,31,1,0,TI358,Southampton,19.97
+PA492,No,3ra clase,"Windelov, Mr. Einar",Masculino,21,0,0,TI683,Southampton,7.25
+PA493,No,1ra clase,"Molson, Mr. Harry Markland",Masculino,55,0,0,TI849,Southampton,30.5
+PA494,No,1ra clase,"Artagaveytia, Mr. Ramon",Masculino,71,0,0,TI687,Cherbourg,49.5
+PA495,No,3ra clase,"Stanley, Mr. Edward Roland",Masculino,21,0,0,TI852,Southampton,8.05
+PA496,No,3ra clase,"Yousseff, Mr. Gerious",Masculino,35,0,0,TI234,Cherbourg,7.23
+PA497,Si,1ra clase,"Eustis, Miss. Elizabeth Mussey",Femenino,54,1,0,TI262,Cherbourg,39.13
+PA498,No,3ra clase,"Shellard, Mr. Frederick William",Masculino,35,0,0,TI355,Southampton,15.1
+PA499,No,1ra clase,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Femenino,25,1,2,TI360,Southampton,37.89
+PA500,No,3ra clase,"Svensson, Mr. Olof",Masculino,24,0,0,TI492,Southampton,7.8
+PA501,No,3ra clase,"Calic, Mr. Petar",Masculino,17,0,0,TI665,Southampton,8.66
+PA502,No,3ra clase,"Canavan, Miss. Mary",Femenino,21,0,0,TI581,Queenstown,7.75
+PA503,No,3ra clase,"O'Sullivan, Miss. Bridget Mary",Femenino,26,0,0,TI42,Queenstown,7.63
+PA504,No,3ra clase,"Laitinen, Miss. Kristina Sofia",Femenino,37,0,0,TI714,Southampton,9.59
+PA505,Si,1ra clase,"Maioni, Miss. Roberta",Femenino,16,0,0,TI182,Southampton,28.83
+PA506,No,1ra clase,"Penasco y Castellana, Mr. Victor de Satode",Masculino,18,1,0,TI259,Cherbourg,54.45
+PA507,Si,2da clase,"Quick, Mrs. Frederick Charles (Jane Richards)",Femenino,33,0,2,TI756,Southampton,13.0
+PA508,Si,1ra clase,"Bradley, Mr. George (""""""""""""""""""""""""""""""""George Arthur Brayton"""""""""""""""""""""""""""""""")",Masculino,33,0,0,TI694,Southampton,26.55
+PA509,No,3ra clase,"Olsen, Mr. Henry Margido",Masculino,28,0,0,TI465,Southampton,22.52
+PA510,Si,3ra clase,"Lang, Mr. Fang",Masculino,26,0,0,TI186,Southampton,8.07
+PA511,Si,3ra clase,"Daly, Mr. Eugene Patrick",Masculino,29,0,0,TI467,Queenstown,7.75
+PA512,No,3ra clase,"Webber, Mr. James",Masculino,32,0,0,TI231,Southampton,8.05
+PA513,Si,1ra clase,"McGough, Mr. James Robert",Masculino,36,0,0,TI384,Southampton,26.29
+PA514,Si,1ra clase,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Femenino,54,1,0,TI596,Cherbourg,59.4
+PA515,No,3ra clase,"Coleff, Mr. Satio",Masculino,24,0,0,TI265,Southampton,7.5
+PA516,No,1ra clase,"Walker, Mr. William Anderson",Masculino,47,0,0,TI75,Southampton,34.02
+PA517,Si,2da clase,"Lemore, Mrs. (Amelia Milley)",Femenino,34,0,0,TI18,Southampton,10.5
+PA518,No,3ra clase,"Ryan, Mr. Patrick",Masculino,30,0,0,TI364,Queenstown,8.05
+PA519,Si,2da clase,"Angle, Mrs. William A (Florence """"""""""""""""""""""""""""""""Mary"""""""""""""""""""""""""""""""" Agnes Hughes)",Femenino,36,1,0,TI370,Southampton,26.0
+PA520,No,3ra clase,"Pavlovic, Mr. Stefo",Masculino,32,0,0,TI326,Southampton,7.9
+PA521,Si,1ra clase,"Perreault, Miss. Anne",Femenino,30,0,0,TI21,Southampton,46.75
+PA522,No,3ra clase,"Vovk, Mr. Janko",Masculino,22,0,0,TI551,Southampton,7.9
+PA523,No,3ra clase,"Lahoud, Mr. Sarkis",Masculino,38,0,0,TI308,Cherbourg,7.22
+PA524,Si,1ra clase,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Femenino,44,0,1,TI418,Cherbourg,28.99
+PA525,No,3ra clase,"Kassem, Mr. Fared",Masculino,27,0,0,TI389,Cherbourg,7.23
+PA526,No,3ra clase,"Farrell, Mr. James",Masculino,40,0,0,TI118,Queenstown,7.75
+PA527,Si,2da clase,"Ridsdale, Miss. Lucy",Femenino,50,0,0,TI824,Southampton,10.5
+PA528,No,1ra clase,"Farthing, Mr. John",Masculino,30,0,0,TI673,Southampton,221.78
+PA529,No,3ra clase,"Salonen, Mr. Johan Werner",Masculino,39,0,0,TI84,Southampton,7.92
+PA530,No,2da clase,"Hocking, Mr. Richard George",Masculino,23,2,1,TI400,Southampton,11.5
+PA531,Si,2da clase,"Quick, Miss. Phyllis May",Femenino,2,1,1,TI312,Southampton,13.0
+PA532,No,3ra clase,"Toufik, Mr. Nakli",Masculino,27,0,0,TI636,Cherbourg,7.23
+PA533,No,3ra clase,"Elias, Mr. Joseph Jr",Masculino,17,1,1,TI701,Cherbourg,7.23
+PA534,Si,3ra clase,"Peter, Mrs. Catherine (Catherine Rizk)",Femenino,23,0,2,TI435,Cherbourg,11.18
+PA535,No,3ra clase,"Cacic, Miss. Marija",Femenino,30,0,0,TI607,Southampton,8.66
+PA536,Si,2da clase,"Hart, Miss. Eva Miriam",Femenino,7,0,2,TI706,Southampton,8.75
+PA537,No,1ra clase,"Butt, Major. Archibald Willingham",Masculino,45,0,0,TI203,Southampton,26.55
+PA538,Si,1ra clase,"LeRoy, Miss. Bertha",Femenino,30,0,0,TI836,Cherbourg,53.21
+PA539,No,3ra clase,"Risien, Mr. Samuel Beard",Masculino,36,0,0,TI807,Southampton,14.5
+PA540,Si,1ra clase,"Frolicher, Miss. Hedwig Margaritha",Femenino,22,0,2,TI52,Cherbourg,49.5
+PA541,Si,1ra clase,"Crosby, Miss. Harriet R",Femenino,36,0,2,TI829,Southampton,35.5
+PA542,No,3ra clase,"Andersson, Miss. Ingeborg Constanzia",Femenino,9,4,2,TI344,Southampton,4.47
+PA543,No,3ra clase,"Andersson, Miss. Sigrid Elisabeth",Femenino,11,4,2,TI753,Southampton,4.47
+PA544,Si,2da clase,"Beane, Mr. Edward",Masculino,32,1,0,TI819,Southampton,13.0
+PA545,No,1ra clase,"Douglas, Mr. Walter Donald",Masculino,50,1,0,TI671,Cherbourg,53.21
+PA546,No,1ra clase,"Nicholson, Mr. Arthur Ernest",Masculino,64,0,0,TI869,Southampton,26.0
+PA547,Si,2da clase,"Beane, Mrs. Edward (Ethel Clarke)",Femenino,19,1,0,TI506,Southampton,13.0
+PA548,Si,2da clase,"Padro y Manent, Mr. Julian",Masculino,36,0,0,TI392,Cherbourg,13.86
+PA549,No,3ra clase,"Goldsmith, Mr. Frank John",Masculino,33,1,1,TI452,Southampton,6.84
+PA550,Si,2da clase,"Davies, Master. John Morgan Jr",Masculino,8,1,1,TI155,Southampton,18.38
+PA551,Si,1ra clase,"Thayer, Mr. John Borland Jr",Masculino,17,0,2,TI419,Cherbourg,27.72
+PA552,No,2da clase,"Sharp, Mr. Percival James R",Masculino,27,0,0,TI349,Southampton,26.0
+PA553,No,3ra clase,"O'Brien, Mr. Timothy",Masculino,27,0,0,TI603,Queenstown,7.83
+PA554,Si,3ra clase,"Leeni, Mr. Fahim (""""""""""""""""""""""""""""""""Philip Zenni"""""""""""""""""""""""""""""""")",Masculino,22,0,0,TI530,Cherbourg,7.22
+PA555,Si,3ra clase,"Ohman, Miss. Velin",Femenino,22,0,0,TI690,Southampton,7.78
+PA556,No,1ra clase,"Wright, Mr. George",Masculino,62,0,0,TI88,Southampton,26.55
+PA557,Si,1ra clase,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""""""""""""""""""""""""""""""""Mrs Morgan"""""""""""""""""""""""""""""""")",Femenino,48,1,0,TI608,Cherbourg,39.6
+PA558,No,1ra clase,"Robbins, Mr. Victor",Masculino,30,0,0,TI507,Cherbourg,56.88
+PA559,Si,1ra clase,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Femenino,39,1,1,TI840,Southampton,26.55
+PA560,Si,3ra clase,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Femenino,36,1,0,TI111,Southampton,17.4
+PA561,No,3ra clase,"Morrow, Mr. Thomas Rowan",Masculino,40,0,0,TI420,Queenstown,7.75
+PA562,No,3ra clase,"Sivic, Mr. Husein",Masculino,40,0,0,TI861,Southampton,7.9
+PA563,No,2da clase,"Norman, Mr. Robert Douglas",Masculino,28,0,0,TI622,Southampton,13.5
+PA564,No,3ra clase,"Simmons, Mr. John",Masculino,32,0,0,TI624,Southampton,8.05
+PA565,No,3ra clase,"Meanwell, Miss. (Marion Ogden)",Femenino,32,0,0,TI367,Southampton,8.05
+PA566,No,3ra clase,"Davies, Mr. Alfred J",Masculino,24,2,0,TI282,Southampton,12.07
+PA567,No,3ra clase,"Stoytcheff, Mr. Ilia",Masculino,19,0,0,TI569,Southampton,7.9
+PA568,No,3ra clase,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Femenino,29,0,4,TI503,Southampton,5.27
+PA569,No,3ra clase,"Doharr, Mr. Tannous",Masculino,27,0,0,TI765,Cherbourg,7.23
+PA570,Si,3ra clase,"Jonsson, Mr. Carl",Masculino,32,0,0,TI542,Southampton,7.85
+PA571,Si,2da clase,"Harris, Mr. George",Masculino,62,0,0,TI82,Southampton,10.5
+PA572,Si,1ra clase,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Femenino,53,2,0,TI204,Southampton,51.48
+PA573,Si,1ra clase,"Flynn, Mr. John Irwin (""""""""""""""""""""""""""""""""Irving"""""""""""""""""""""""""""""""")",Masculino,36,0,0,TI12,Southampton,26.39
+PA574,Si,3ra clase,"Kelly, Miss. Mary",Femenino,40,0,0,TI457,Queenstown,7.75
+PA575,No,3ra clase,"Rush, Mr. Alfred George John",Masculino,16,0,0,TI22,Southampton,8.05
+PA576,No,3ra clase,"Patchett, Mr. George",Masculino,19,0,0,TI369,Southampton,7.25
+PA577,Si,2da clase,"Garside, Miss. Ethel",Femenino,34,0,0,TI407,Southampton,13.0
+PA578,Si,1ra clase,"Silvey, Mrs. William Baird (Alice Munger)",Femenino,39,1,0,TI236,Southampton,27.95
+PA579,No,3ra clase,"Caram, Mrs. Joseph (Maria Elias)",Femenino,33,1,0,TI237,Cherbourg,14.46
+PA580,Si,3ra clase,"Jussila, Mr. Eiriik",Masculino,32,0,0,TI561,Southampton,7.92
+PA581,Si,2da clase,"Christy, Miss. Julie Rachel",Femenino,25,1,1,TI41,Southampton,30.0
+PA582,Si,1ra clase,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Femenino,39,1,1,TI855,Cherbourg,27.72
+PA583,No,2da clase,"Downton, Mr. William James",Masculino,54,0,0,TI850,Southampton,13.0
+PA584,No,1ra clase,"Ross, Mr. John Hugo",Masculino,36,0,0,TI750,Cherbourg,40.12
+PA585,No,3ra clase,"Paulner, Mr. Uscher",Masculino,31,0,0,TI170,Cherbourg,8.71
+PA586,Si,1ra clase,"Taussig, Miss. Ruth",Femenino,18,0,2,TI626,Southampton,26.55
+PA587,No,2da clase,"Jarvis, Mr. John Denzil",Masculino,47,0,0,TI26,Southampton,15.0
+PA588,Si,1ra clase,"Frolicher-Stehli, Mr. Maxmillian",Masculino,60,1,1,TI241,Cherbourg,79.2
+PA589,No,3ra clase,"Gilinski, Mr. Eliezer",Masculino,22,0,0,TI723,Southampton,8.05
+PA590,No,3ra clase,"Murdlin, Mr. Joseph",Masculino,32,0,0,TI458,Southampton,8.05
+PA591,No,3ra clase,"Rintamaki, Mr. Matti",Masculino,35,0,0,TI887,Southampton,7.12
+PA592,Si,1ra clase,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Femenino,52,1,0,TI350,Cherbourg,39.13
+PA593,No,3ra clase,"Elsbury, Mr. William James",Masculino,47,0,0,TI473,Southampton,7.25
+PA594,No,3ra clase,"Bourke, Miss. Mary",Femenino,36,0,2,TI762,Queenstown,7.75
+PA595,No,2da clase,"Chapman, Mr. John Henry",Masculino,37,1,0,TI303,Southampton,26.0
+PA596,No,3ra clase,"Van Impe, Mr. Jean Baptiste",Masculino,36,1,1,TI604,Southampton,8.05
+PA597,Si,2da clase,"Leitch, Miss. Jessie Wills",Femenino,35,0,0,TI583,Southampton,11.0
+PA598,No,3ra clase,"Johnson, Mr. Alfred",Masculino,49,0,0,TI113,Southampton,0.0
+PA599,No,3ra clase,"Boulos, Mr. Hanna",Masculino,38,0,0,TI402,Cherbourg,7.22
+PA600,Si,1ra clase,"Duff Gordon, Sir. Cosmo Edmund (""""""""""""""""""""""""""""""""Mr Morgan"""""""""""""""""""""""""""""""")",Masculino,49,1,0,TI235,Cherbourg,28.46
+PA601,Si,2da clase,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Femenino,24,2,1,TI489,Southampton,13.5
+PA602,No,3ra clase,"Slabenoff, Mr. Petco",Masculino,30,0,0,TI273,Southampton,7.9
+PA603,No,1ra clase,"Harrington, Mr. Charles H",Masculino,30,0,0,TI300,Southampton,42.4
+PA604,No,3ra clase,"Torber, Mr. Ernst William",Masculino,44,0,0,TI595,Southampton,8.05
+PA605,Si,1ra clase,"Homer, Mr. Harry (""""""""""""""""""""""""""""""""Mr E Haven"""""""""""""""""""""""""""""""")",Masculino,35,0,0,TI577,Cherbourg,26.55
+PA606,No,3ra clase,"Lindell, Mr. Edvard Bengtsson",Masculino,36,1,0,TI711,Southampton,15.55
+PA607,No,3ra clase,"Karaic, Mr. Milan",Masculino,30,0,0,TI430,Southampton,7.9
+PA608,Si,1ra clase,"Daniel, Mr. Robert Williams",Masculino,27,0,0,TI747,Southampton,30.5
+PA609,Si,2da clase,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Femenino,22,1,2,TI114,Cherbourg,13.86
+PA610,Si,1ra clase,"Shutes, Miss. Elizabeth W",Femenino,40,0,0,TI613,Southampton,51.15
+PA611,No,3ra clase,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Femenino,39,1,5,TI109,Southampton,4.47
+PA612,No,3ra clase,"Jardin, Mr. Jose Neto",Masculino,29,0,0,TI2,Southampton,7.05
+PA613,Si,3ra clase,"Murphy, Miss. Margaret Jane",Femenino,35,1,0,TI800,Queenstown,7.75
+PA614,No,3ra clase,"Horgan, Mr. John",Masculino,40,0,0,TI175,Queenstown,7.75
+PA615,No,3ra clase,"Brocklebank, Mr. William Alfred",Masculino,35,0,0,TI587,Southampton,8.05
+PA616,Si,2da clase,"Herman, Miss. Alice",Femenino,24,1,2,TI28,Southampton,32.5
+PA617,No,3ra clase,"Danbom, Mr. Ernst Gilbert",Masculino,34,1,1,TI218,Southampton,7.2
+PA618,No,3ra clase,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Femenino,26,1,0,TI50,Southampton,8.05
+PA619,Si,2da clase,"Becker, Miss. Marion Louise",Femenino,4,2,1,TI510,Southampton,19.5
+PA620,No,2da clase,"Gavey, Mr. Lawrence",Masculino,26,0,0,TI397,Southampton,10.5
+PA621,No,3ra clase,"Yasbeck, Mr. Antoni",Masculino,27,1,0,TI752,Cherbourg,7.23
+PA622,Si,1ra clase,"Kimball, Mr. Edwin Nelson Jr",Masculino,42,1,0,TI556,Southampton,52.55
+PA623,Si,3ra clase,"Nakid, Mr. Sahid",Masculino,20,1,1,TI528,Cherbourg,7.87
+PA624,No,3ra clase,"Hansen, Mr. Henry Damsgaard",Masculino,21,0,0,TI767,Southampton,7.85
+PA625,No,3ra clase,"Bowen, Mr. David John """"""""""""""""""""""""""""""""Dai""""""""""""""""""""""""""""""""",Masculino,21,0,0,TI783,Southampton,8.05
+PA626,No,1ra clase,"Sutton, Mr. Frederick",Masculino,61,0,0,TI675,Southampton,32.32
+PA627,No,2da clase,"Kirkland, Rev. Charles Leonard",Masculino,57,0,0,TI388,Queenstown,12.35
+PA628,Si,1ra clase,"Longley, Miss. Gretchen Fiske",Femenino,21,0,0,TI343,Southampton,25.99
+PA629,No,3ra clase,"Bostandyeff, Mr. Guentcho",Masculino,26,0,0,TI152,Southampton,7.9
+PA630,No,3ra clase,"O'Connell, Mr. Patrick D",Masculino,27,0,0,TI403,Queenstown,7.73
+PA631,Si,1ra clase,"Barkworth, Mr. Algernon Henry Wilson",Masculino,80,0,0,TI650,Southampton,30.0
+PA632,No,3ra clase,"Lundahl, Mr. Johan Svensson",Masculino,51,0,0,TI330,Southampton,7.05
+PA633,Si,1ra clase,"Stahelin-Maeglin, Dr. Max",Masculino,32,0,0,TI421,Cherbourg,30.5
+PA634,No,1ra clase,"Parr, Mr. William Henry Marsh",Masculino,29,0,0,TI106,Southampton,0.0
+PA635,No,3ra clase,"Skoog, Miss. Mabel",Femenino,9,3,2,TI818,Southampton,4.65
+PA636,Si,2da clase,"Davis, Miss. Mary",Femenino,28,0,0,TI46,Southampton,13.0
+PA637,No,3ra clase,"Leinonen, Mr. Antti Gustaf",Masculino,32,0,0,TI798,Southampton,7.92
+PA638,No,2da clase,"Collyer, Mr. Harvey",Masculino,31,1,1,TI778,Southampton,8.75
+PA639,No,3ra clase,"Panula, Mrs. Juha (Maria Emilia Ojala)",Femenino,41,0,5,TI760,Southampton,6.61
+PA640,No,3ra clase,"Thorneycroft, Mr. Percival",Masculino,30,1,0,TI244,Southampton,8.05
+PA641,No,3ra clase,"Jensen, Mr. Hans Peder",Masculino,20,0,0,TI444,Southampton,7.85
+PA642,Si,1ra clase,"Sagesser, Mlle. Emma",Femenino,24,0,0,TI263,Cherbourg,34.65
+PA643,No,3ra clase,"Skoog, Miss. Margit Elizabeth",Femenino,2,3,2,TI102,Southampton,4.65
+PA644,Si,3ra clase,"Foo, Mr. Choong",Masculino,29,0,0,TI704,Southampton,8.07
+PA645,Si,3ra clase,"Baclini, Miss. Eugenie",Femenino,0,2,1,TI745,Cherbourg,4.81
+PA646,Si,1ra clase,"Harper, Mr. Henry Sleeper",Masculino,48,1,0,TI784,Cherbourg,25.58
+PA647,No,3ra clase,"Cor, Mr. Liudevit",Masculino,19,0,0,TI93,Southampton,7.9
+PA648,Si,1ra clase,"Simonius-Blumer, Col. Oberst Alfons",Masculino,56,0,0,TI876,Cherbourg,35.5
+PA649,No,3ra clase,"Willey, Mr. Edward",Masculino,27,0,0,TI664,Southampton,7.55
+PA650,Si,3ra clase,"Stanley, Miss. Amy Zillah Elsie",Femenino,23,0,0,TI19,Southampton,7.55
+PA651,No,3ra clase,"Mitkoff, Mr. Mito",Masculino,30,0,0,TI192,Southampton,7.9
+PA652,Si,2da clase,"Doling, Miss. Elsie",Femenino,18,0,1,TI189,Southampton,11.5
+PA653,No,3ra clase,"Kalvik, Mr. Johannes Halvorsen",Masculino,21,0,0,TI100,Southampton,8.43
+PA654,Si,3ra clase,"O'Leary, Miss. Hanora """"""""""""""""""""""""""""""""Norah""""""""""""""""""""""""""""""""",Femenino,27,0,0,TI612,Queenstown,7.83
+PA655,No,3ra clase,"Hegarty, Miss. Hanora """"""""""""""""""""""""""""""""Nora""""""""""""""""""""""""""""""""",Femenino,18,0,0,TI546,Queenstown,6.75
+PA656,No,2da clase,"Hickman, Mr. Leonard Mark",Masculino,24,2,0,TI412,Southampton,14.7
+PA657,No,3ra clase,"Radeff, Mr. Alexander",Masculino,30,0,0,TI822,Southampton,7.9
+PA658,No,3ra clase,"Bourke, Mrs. John (Catherine)",Femenino,32,1,1,TI713,Queenstown,7.75
+PA659,No,2da clase,"Eitemiller, Mr. George Floyd",Masculino,23,0,0,TI744,Southampton,13.0
+PA660,No,1ra clase,"Newell, Mr. Arthur Webster",Masculino,58,0,2,TI65,Cherbourg,37.76
+PA661,Si,1ra clase,"Frauenthal, Dr. Henry William",Masculino,50,2,0,TI738,Southampton,66.83
+PA662,No,3ra clase,"Badt, Mr. Mohamed",Masculino,40,0,0,TI882,Cherbourg,7.22
+PA663,No,1ra clase,"Colley, Mr. Edward Pomeroy",Masculino,47,0,0,TI51,Southampton,25.59
+PA664,No,3ra clase,"Coleff, Mr. Peju",Masculino,36,0,0,TI327,Southampton,7.5
+PA665,Si,3ra clase,"Lindqvist, Mr. Eino William",Masculino,20,1,0,TI383,Southampton,7.92
+PA666,No,2da clase,"Hickman, Mr. Lewis",Masculino,32,2,0,TI728,Southampton,14.7
+PA667,No,2da clase,"Butler, Mr. Reginald Fenton",Masculino,25,0,0,TI543,Southampton,13.0
+PA668,No,3ra clase,"Rommetvedt, Mr. Knud Paust",Masculino,28,0,0,TI758,Southampton,7.78
+PA669,No,3ra clase,"Cook, Mr. Jacob",Masculino,43,0,0,TI43,Southampton,8.05
+PA670,Si,1ra clase,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Femenino,33,1,0,TI555,Southampton,26.0
+PA671,Si,2da clase,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Femenino,40,1,1,TI162,Southampton,19.5
+PA672,No,1ra clase,"Davidson, Mr. Thornton",Masculino,31,1,0,TI686,Southampton,52.0
+PA673,No,2da clase,"Mitchell, Mr. Henry Michael",Masculino,70,0,0,TI212,Southampton,10.5
+PA674,Si,2da clase,"Wilhelms, Mr. Charles",Masculino,31,0,0,TI868,Southampton,13.0
+PA675,No,2da clase,"Watson, Mr. Ennis Hastings",Masculino,29,0,0,TI315,Southampton,0.0
+PA676,No,3ra clase,"Edvardsson, Mr. Gustaf Hjalmar",Masculino,18,0,0,TI67,Southampton,7.78
+PA677,No,3ra clase,"Sawyer, Mr. Frederick Charles",Masculino,24,0,0,TI74,Southampton,8.05
+PA678,Si,3ra clase,"Turja, Miss. Anna Sofia",Femenino,18,0,0,TI112,Southampton,9.84
+PA679,No,3ra clase,"Goodwin, Mrs. Frederick (Augusta Tyler)",Femenino,43,1,6,TI168,Southampton,7.82
+PA680,Si,1ra clase,"Ostby, Mr. Thomas Drake Martinez",Masculino,39,0,1,TI770,Cherbourg,170.78
+PA681,No,3ra clase,"Peters, Miss. Katie",Femenino,30,0,0,TI509,Queenstown,8.14
+PA682,Si,1ra clase,"Hassab, Mr. Hammad",Masculino,27,0,0,TI95,Cherbourg,25.58
+PA683,No,3ra clase,"Olsvigen, Mr. Thor Anderson",Masculino,20,0,0,TI606,Southampton,9.22
+PA684,No,3ra clase,"Goodwin, Mr. Charles Edward",Masculino,14,5,2,TI408,Southampton,7.82
+PA685,No,2da clase,"Brown, Mr. Thomas William Solomon",Masculino,60,1,1,TI858,Southampton,19.5
+PA686,No,2da clase,"Laroche, Mr. Joseph Philippe Lemercier",Masculino,25,1,2,TI172,Cherbourg,13.86
+PA687,No,3ra clase,"Panula, Mr. Jaako Arnold",Masculino,14,4,1,TI806,Southampton,6.61
+PA688,No,3ra clase,"Dakic, Mr. Branko",Masculino,19,0,0,TI208,Southampton,10.17
+PA689,No,3ra clase,"Fischer, Mr. Eberhard Thelander",Masculino,18,0,0,TI494,Southampton,7.8
+PA690,Si,1ra clase,"Madill, Miss. Georgette Alexandra",Femenino,15,0,1,TI565,Southampton,70.45
+PA691,Si,1ra clase,"Dick, Mr. Albert Adrian",Masculino,31,1,0,TI395,Southampton,28.5
+PA692,Si,3ra clase,"Karun, Miss. Manca",Femenino,4,0,1,TI386,Cherbourg,13.42
+PA693,Si,3ra clase,"Lam, Mr. Ali",Masculino,29,0,0,TI525,Southampton,8.07
+PA694,No,3ra clase,"Saad, Mr. Khalil",Masculino,25,0,0,TI755,Cherbourg,7.22
+PA695,No,1ra clase,"Weir, Col. John",Masculino,60,0,0,TI810,Southampton,26.55
+PA696,No,2da clase,"Chapman, Mr. Charles Henry",Masculino,52,0,0,TI656,Southampton,13.5
+PA697,No,3ra clase,"Kelly, Mr. James",Masculino,44,0,0,TI45,Southampton,8.05
+PA698,Si,3ra clase,"Mullens, Miss. Katherine """"""""""""""""""""""""""""""""Katie""""""""""""""""""""""""""""""""",Femenino,27,0,0,TI306,Queenstown,7.73
+PA699,No,1ra clase,"Thayer, Mr. John Borland",Masculino,49,1,1,TI859,Cherbourg,27.72
+PA700,No,3ra clase,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Masculino,42,0,0,TI151,Southampton,7.65
+PA701,Si,1ra clase,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Femenino,18,1,0,TI320,Cherbourg,56.88
+PA702,Si,1ra clase,"Silverthorne, Mr. Spencer Victor",Masculino,35,0,0,TI730,Southampton,26.29
+PA703,No,3ra clase,"Barbara, Miss. Saiide",Femenino,18,0,1,TI325,Cherbourg,7.23
+PA704,No,3ra clase,"Gallagher, Mr. Martin",Masculino,25,0,0,TI679,Queenstown,7.74
+PA705,No,3ra clase,"Hansen, Mr. Henrik Juul",Masculino,26,1,0,TI826,Southampton,7.85
+PA706,No,2da clase,"Morley, Mr. Henry Samuel (""""""""""""""""""""""""""""""""Mr Henry Marshall"""""""""""""""""""""""""""""""")",Masculino,39,0,0,TI149,Southampton,13.0
+PA707,Si,2da clase,"Kelly, Mrs. Florence """"""""""""""""""""""""""""""""Fannie""""""""""""""""""""""""""""""""",Femenino,45,0,0,TI771,Southampton,13.5
+PA708,Si,1ra clase,"Calderhead, Mr. Edward Pennington",Masculino,42,0,0,TI599,Southampton,26.29
+PA709,Si,1ra clase,"Cleaver, Miss. Alice",Femenino,22,0,0,TI220,Southampton,37.89
+PA710,Si,3ra clase,"Moubarek, Master. Halim Gonios (""""""""""""""""""""""""""""""""William George"""""""""""""""""""""""""""""""")",Masculino,29,1,1,TI512,Cherbourg,7.62
+PA711,Si,1ra clase,"Mayne, Mlle. Berthe Antonine (""""""""""""""""""""""""""""""""Mrs de Villiers"""""""""""""""""""""""""""""""")",Femenino,24,0,0,TI318,Cherbourg,49.5
+PA712,No,1ra clase,"Klaber, Mr. Herman",Masculino,33,0,0,TI425,Southampton,26.55
+PA713,Si,1ra clase,"Taylor, Mr. Elmer Zebley",Masculino,48,1,0,TI491,Southampton,26.0
+PA714,No,3ra clase,"Larsson, Mr. August Viktor",Masculino,29,0,0,TI198,Southampton,9.48
+PA715,No,2da clase,"Greenberg, Mr. Samuel",Masculino,52,0,0,TI619,Southampton,6.5
+PA716,No,3ra clase,"Soholt, Mr. Peter Andreas Lauritz Andersen",Masculino,19,0,0,TI324,Southampton,7.65
+PA717,Si,1ra clase,"Endres, Miss. Caroline Louise",Femenino,38,0,0,TI49,Cherbourg,56.88
+PA718,Si,2da clase,"Troutt, Miss. Edwina Celia """"""""""""""""""""""""""""""""Winnie""""""""""""""""""""""""""""""""",Femenino,27,0,0,TI276,Southampton,10.5
+PA719,No,3ra clase,"McEvoy, Mr. Michael",Masculino,37,0,0,TI381,Queenstown,15.5
+PA720,No,3ra clase,"Johnson, Mr. Malkolm Joackim",Masculino,33,0,0,TI681,Southampton,7.78
+PA721,Si,2da clase,"Harper, Miss. Annie Jessie """"""""""""""""""""""""""""""""Nina""""""""""""""""""""""""""""""""",Femenino,6,0,1,TI55,Southampton,11.0
+PA722,No,3ra clase,"Jensen, Mr. Svend Lauritz",Masculino,17,1,0,TI283,Southampton,7.05
+PA723,No,2da clase,"Gillespie, Mr. William Henry",Masculino,34,0,0,TI431,Southampton,13.0
+PA724,No,2da clase,"Hodges, Mr. Henry Price",Masculino,50,0,0,TI250,Southampton,13.0
+PA725,Si,1ra clase,"Chambers, Mr. Norman Campbell",Masculino,27,1,0,TI743,Southampton,26.55
+PA726,No,3ra clase,"Oreskovic, Mr. Luka",Masculino,20,0,0,TI838,Southampton,8.66
+PA727,Si,2da clase,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Femenino,30,3,0,TI801,Southampton,10.5
+PA728,Si,3ra clase,"Mannion, Miss. Margareth",Femenino,27,0,0,TI286,Queenstown,7.74
+PA729,No,2da clase,"Bryhl, Mr. Kurt Arnold Gottfrid",Masculino,25,1,0,TI83,Southampton,26.0
+PA730,No,3ra clase,"Ilmakangas, Miss. Pieta Sofia",Femenino,25,1,0,TI832,Southampton,7.92
+PA731,Si,1ra clase,"Allen, Miss. Elisabeth Walton",Femenino,29,0,0,TI646,Southampton,70.45
+PA732,No,3ra clase,"Hassan, Mr. Houssein G N",Masculino,11,0,0,TI735,Cherbourg,9.39
+PA733,No,2da clase,"Knight, Mr. Robert J",Masculino,29,0,0,TI749,Southampton,0.0
+PA734,No,2da clase,"Berriman, Mr. William John",Masculino,23,0,0,TI695,Southampton,13.0
+PA735,No,2da clase,"Troupiansky, Mr. Moses Aaron",Masculino,23,0,0,TI131,Southampton,13.0
+PA736,No,3ra clase,"Williams, Mr. Leslie",Masculino,28,0,0,TI14,Southampton,8.05
+PA737,No,3ra clase,"Ford, Mrs. Edward (Margaret Ann Watson)",Femenino,48,1,3,TI66,Southampton,8.59
+PA738,Si,1ra clase,"Lesurer, Mr. Gustave J",Masculino,35,0,0,TI378,Cherbourg,170.78
+PA739,No,3ra clase,"Ivanoff, Mr. Kanio",Masculino,30,0,0,TI428,Southampton,7.9
+PA740,No,3ra clase,"Nankoff, Mr. Minko",Masculino,30,0,0,TI417,Southampton,7.9
+PA741,Si,1ra clase,"Hawksford, Mr. Walter James",Masculino,33,0,0,TI61,Southampton,30.0
+PA742,No,1ra clase,"Cavendish, Mr. Tyrell William",Masculino,36,1,0,TI143,Southampton,39.42
+PA743,Si,1ra clase,"Ryerson, Miss. Susan Parker """"""""""""""""""""""""""""""""Suzette""""""""""""""""""""""""""""""""",Femenino,21,2,2,TI550,Cherbourg,131.19
+PA744,No,3ra clase,"McNamee, Mr. Neal",Masculino,24,1,0,TI202,Southampton,16.1
+PA745,Si,3ra clase,"Stranden, Mr. Juho",Masculino,31,0,0,TI335,Southampton,7.92
+PA746,No,1ra clase,"Crosby, Capt. Edward Gifford",Masculino,70,1,1,TI689,Southampton,35.5
+PA747,No,3ra clase,"Abbott, Mr. Rossmore Edward",Masculino,16,1,1,TI351,Southampton,10.12
+PA748,Si,2da clase,"Sinkkonen, Miss. Anna",Femenino,30,0,0,TI245,Southampton,13.0
+PA749,No,1ra clase,"Marvin, Mr. Daniel Warner",Masculino,19,1,0,TI634,Southampton,53.1
+PA750,No,3ra clase,"Connaghton, Mr. Michael",Masculino,31,0,0,TI498,Queenstown,7.75
+PA751,Si,2da clase,"Wells, Miss. Joan",Femenino,4,1,1,TI123,Southampton,23.0
+PA752,Si,3ra clase,"Moor, Master. Meier",Masculino,6,0,1,TI334,Southampton,6.24
+PA753,No,3ra clase,"Vande Velde, Mr. Johannes Joseph",Masculino,33,0,0,TI17,Southampton,9.5
+PA754,No,3ra clase,"Jonkoff, Mr. Lalio",Masculino,23,0,0,TI390,Southampton,7.9
+PA755,Si,2da clase,"Herman, Mrs. Samuel (Jane Laver)",Femenino,48,1,2,TI502,Southampton,32.5
+PA756,Si,2da clase,"Hamalainen, Master. Viljo",Masculino,0,1,1,TI816,Southampton,7.25
+PA757,No,3ra clase,"Carlsson, Mr. August Sigfrid",Masculino,28,0,0,TI545,Southampton,7.8
+PA758,No,2da clase,"Bailey, Mr. Percy Andrew",Masculino,18,0,0,TI651,Southampton,11.5
+PA759,No,3ra clase,"Theobald, Mr. Thomas Leonard",Masculino,34,0,0,TI255,Southampton,8.05
+PA760,Si,1ra clase,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Femenino,33,0,0,TI340,Southampton,28.83
+PA761,No,3ra clase,"Garfirth, Mr. John",Masculino,36,0,0,TI157,Southampton,7.25
+PA762,No,3ra clase,"Nirva, Mr. Iisakki Antino Aijo",Masculino,41,0,0,TI246,Southampton,7.12
+PA763,Si,3ra clase,"Barah, Mr. Hanna Assi",Masculino,20,0,0,TI670,Cherbourg,7.23
+PA764,Si,1ra clase,"Carter, Mrs. William Ernest (Lucile Polk)",Femenino,36,1,2,TI552,Southampton,30.0
+PA765,No,3ra clase,"Eklund, Mr. Hans Linus",Masculino,16,0,0,TI462,Southampton,7.78
+PA766,Si,1ra clase,"Hogeboom, Mrs. John C (Anna Andrews)",Femenino,51,1,0,TI553,Southampton,25.99
+PA767,No,1ra clase,"Brewe, Dr. Arthur Jackson",Masculino,33,0,0,TI615,Cherbourg,39.6
+PA768,No,3ra clase,"Mangan, Miss. Mary",Femenino,30,0,0,TI382,Queenstown,7.75
+PA769,No,3ra clase,"Moran, Mr. Daniel J",Masculino,29,1,0,TI520,Queenstown,8.05
+PA770,No,3ra clase,"Gronnestad, Mr. Daniel Danielsen",Masculino,32,0,0,TI531,Southampton,8.36
+PA771,No,3ra clase,"Lievens, Mr. Rene Aime",Masculino,24,0,0,TI224,Southampton,9.5
+PA772,No,3ra clase,"Jensen, Mr. Niels Peder",Masculino,48,0,0,TI821,Southampton,7.85
+PA773,No,2da clase,"Mack, Mrs. (Mary)",Femenino,57,0,0,TI193,Southampton,5.25
+PA774,No,3ra clase,"Elias, Mr. Dibo",Masculino,38,0,0,TI566,Cherbourg,7.22
+PA775,Si,2da clase,"Hocking, Mrs. Elizabeth (Eliza Needs)",Femenino,54,1,3,TI53,Southampton,23.0
+PA776,No,3ra clase,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Masculino,18,0,0,TI514,Southampton,7.75
+PA777,No,3ra clase,"Tobin, Mr. Roger",Masculino,40,0,0,TI23,Queenstown,7.75
+PA778,Si,3ra clase,"Emanuel, Miss. Virginia Ethel",Femenino,5,0,0,TI232,Southampton,6.24
+PA779,No,3ra clase,"Kilgannon, Mr. Thomas J",Masculino,27,0,0,TI524,Queenstown,7.74
+PA780,Si,1ra clase,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Femenino,43,0,1,TI89,Southampton,70.45
+PA781,Si,3ra clase,"Ayoub, Miss. Banoura",Femenino,13,0,0,TI448,Cherbourg,7.23
+PA782,Si,1ra clase,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Femenino,17,1,0,TI839,Southampton,28.5
+PA783,No,1ra clase,"Long, Mr. Milton Clyde",Masculino,29,0,0,TI843,Southampton,30.0
+PA784,No,3ra clase,"Johnston, Mr. Andrew G",Masculino,24,1,2,TI341,Southampton,11.72
+PA785,No,3ra clase,"Ali, Mr. William",Masculino,25,0,0,TI437,Southampton,7.05
+PA786,No,3ra clase,"Harmer, Mr. Abraham (David Lishin)",Masculino,25,0,0,TI842,Southampton,7.25
+PA787,Si,3ra clase,"Sjoblom, Miss. Anna Sofia",Femenino,18,0,0,TI130,Southampton,7.5
+PA788,No,3ra clase,"Rice, Master. George Hugh",Masculino,8,4,1,TI482,Queenstown,5.82
+PA789,Si,3ra clase,"Dean, Master. Bertram Vere",Masculino,1,1,2,TI471,Southampton,10.29
+PA790,No,1ra clase,"Guggenheim, Mr. Benjamin",Masculino,46,0,0,TI653,Cherbourg,39.6
+PA791,No,3ra clase,"Keane, Mr. Andrew """"""""""""""""""""""""""""""""Andy""""""""""""""""""""""""""""""""",Masculino,40,0,0,TI108,Queenstown,7.75
+PA792,No,2da clase,"Gaskell, Mr. Alfred",Masculino,16,0,0,TI886,Southampton,13.0
+PA793,No,3ra clase,"Sage, Miss. Stella Anna",Femenino,16,8,2,TI79,Southampton,9.94
+PA794,No,1ra clase,"Hoyt, Mr. William Fisher",Masculino,34,0,0,TI493,Cherbourg,30.7
+PA795,No,3ra clase,"Dantcheff, Mr. Ristiu",Masculino,25,0,0,TI316,Southampton,7.9
+PA796,No,2da clase,"Otter, Mr. Richard",Masculino,39,0,0,TI797,Southampton,13.0
+PA797,Si,1ra clase,"Leader, Dr. Alice (Farnham)",Femenino,49,0,0,TI80,Southampton,25.93
+PA798,Si,3ra clase,"Osman, Mrs. Mara",Femenino,31,0,0,TI739,Southampton,8.68
+PA799,No,3ra clase,"Ibrahim Shawah, Mr. Yousseff",Masculino,30,0,0,TI441,Cherbourg,7.23
+PA800,No,3ra clase,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Femenino,30,1,1,TI805,Southampton,8.05
+PA801,No,2da clase,"Ponesell, Mr. Martin",Masculino,34,0,0,TI305,Southampton,6.5
+PA802,Si,2da clase,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Femenino,31,1,1,TI394,Southampton,8.75
+PA803,Si,1ra clase,"Carter, Master. William Thornton II",Masculino,11,1,2,TI363,Southampton,30.0
+PA804,Si,3ra clase,"Thomas, Master. Assad Alexander",Masculino,0,0,1,TI194,Cherbourg,8.52
+PA805,Si,3ra clase,"Hedman, Mr. Oskar Arvid",Masculino,27,0,0,TI717,Southampton,6.97
+PA806,No,3ra clase,"Johansson, Mr. Karl Johan",Masculino,31,0,0,TI844,Southampton,7.78
+PA807,No,1ra clase,"Andrews, Mr. Thomas Jr",Masculino,39,0,0,TI475,Southampton,0.0
+PA808,No,3ra clase,"Pettersson, Miss. Ellen Natalia",Femenino,18,0,0,TI790,Southampton,7.78
+PA809,No,2da clase,"Meyer, Mr. August",Masculino,39,0,0,TI150,Southampton,13.0
+PA810,Si,1ra clase,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Femenino,33,1,0,TI7,Southampton,26.55
+PA811,No,3ra clase,"Alexander, Mr. William",Masculino,26,0,0,TI592,Southampton,7.89
+PA812,No,3ra clase,"Lester, Mr. James",Masculino,39,0,0,TI36,Southampton,12.07
+PA813,No,2da clase,"Slemen, Mr. Richard James",Masculino,35,0,0,TI248,Southampton,10.5
+PA814,No,3ra clase,"Andersson, Miss. Ebba Iris Alfrida",Femenino,6,4,2,TI27,Southampton,4.47
+PA815,No,3ra clase,"Tomlin, Mr. Ernest Portage",Masculino,30,0,0,TI708,Southampton,8.05
+PA816,No,1ra clase,"Fry, Mr. Richard",Masculino,29,0,0,TI116,Southampton,0.0
+PA817,No,3ra clase,"Heininen, Miss. Wendla Maria",Femenino,23,0,0,TI71,Southampton,7.92
+PA818,No,2da clase,"Mallet, Mr. Albert",Masculino,31,1,1,TI387,Cherbourg,18.5
+PA819,No,3ra clase,"Holm, Mr. John Fredrik Alexander",Masculino,43,0,0,TI256,Southampton,6.45
+PA820,No,3ra clase,"Skoog, Master. Karl Thorsten",Masculino,10,3,2,TI638,Southampton,4.65
+PA821,Si,1ra clase,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Femenino,52,1,1,TI60,Southampton,46.75
+PA822,Si,3ra clase,"Lulic, Mr. Nikola",Masculino,27,0,0,TI87,Southampton,8.66
+PA823,No,1ra clase,"Reuchlin, Jonkheer. John George",Masculino,38,0,0,TI860,Southampton,0.0
+PA824,Si,3ra clase,"Moor, Mrs. (Beila)",Femenino,27,0,1,TI732,Southampton,6.24
+PA825,No,3ra clase,"Panula, Master. Urho Abraham",Masculino,2,4,1,TI166,Southampton,6.61
+PA826,No,3ra clase,"Flynn, Mr. John",Masculino,29,0,0,TI796,Queenstown,6.95
+PA827,No,3ra clase,"Lam, Mr. Len",Masculino,29,0,0,TI485,Southampton,8.07
+PA828,Si,2da clase,"Mallet, Master. Andre",Masculino,1,0,2,TI729,Cherbourg,18.5
+PA829,Si,3ra clase,"McCormack, Mr. Thomas Joseph",Masculino,40,0,0,TI691,Queenstown,7.75
+PA831,Si,3ra clase,"Yasbeck, Mrs. Antoni (Selini Alexander)",Femenino,15,1,0,TI10,Cherbourg,7.23
+PA832,Si,2da clase,"Richards, Master. George Sibley",Masculino,0,1,1,TI105,Southampton,6.25
+PA833,No,3ra clase,"Saad, Mr. Amin",Masculino,27,0,0,TI719,Cherbourg,7.23
+PA834,No,3ra clase,"Augustsson, Mr. Albert",Masculino,23,0,0,TI1,Southampton,7.85
+PA835,No,3ra clase,"Allum, Mr. Owen George",Masculino,18,0,0,TI240,Southampton,8.3
+PA836,Si,1ra clase,"Compton, Miss. Sara Rebecca",Femenino,39,1,1,TI657,Cherbourg,83.16
+PA837,No,3ra clase,"Pasic, Mr. Jakob",Masculino,21,0,0,TI451,Southampton,8.66
+PA838,No,3ra clase,"Sirota, Mr. Maurice",Masculino,32,0,0,TI777,Southampton,8.05
+PA839,Si,3ra clase,"Chip, Mr. Chang",Masculino,32,0,0,TI432,Southampton,8.07
+PA840,Si,1ra clase,"Marechal, Mr. Pierre",Masculino,31,0,0,TI62,Cherbourg,29.7
+PA841,No,3ra clase,"Alhomaki, Mr. Ilmari Rudolf",Masculino,20,0,0,TI287,Southampton,7.92
+PA842,No,2da clase,"Mudd, Mr. Thomas Charles",Masculino,16,0,0,TI854,Southampton,5.25
+PA843,Si,1ra clase,"Serepeca, Miss. Augusta",Femenino,30,0,0,TI616,Cherbourg,15.5
+PA844,No,3ra clase,"Lemberopolous, Mr. Peter L",Masculino,34,0,0,TI128,Cherbourg,6.44
+PA845,No,3ra clase,"Culumovic, Mr. Jeso",Masculino,17,0,0,TI122,Southampton,8.66
+PA846,No,3ra clase,"Abbing, Mr. Anthony",Masculino,42,0,0,TI737,Southampton,7.55
+PA847,No,3ra clase,"Sage, Mr. Douglas Bullen",Masculino,16,8,2,TI70,Southampton,9.94
+PA848,No,3ra clase,"Markoff, Mr. Marin",Masculino,35,0,0,TI847,Cherbourg,7.9
+PA849,No,2da clase,"Harper, Rev. John",Masculino,28,0,1,TI459,Southampton,11.0
+PA850,Si,1ra clase,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Femenino,33,1,0,TI696,Cherbourg,44.55
+PA851,No,3ra clase,"Andersson, Master. Sigvard Harald Elias",Masculino,4,4,2,TI277,Southampton,4.47
+PA852,No,3ra clase,"Svensson, Mr. Johan",Masculino,74,0,0,TI156,Southampton,7.78
+PA853,No,3ra clase,"Boulos, Miss. Nourelain",Femenino,9,1,1,TI571,Cherbourg,7.62
+PA854,Si,1ra clase,"Lines, Miss. Mary Conover",Femenino,16,0,1,TI609,Southampton,39.4
+PA855,No,2da clase,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Femenino,44,1,0,TI434,Southampton,13.0
+PA856,Si,3ra clase,"Aks, Mrs. Sam (Leah Rosen)",Femenino,18,0,1,TI568,Southampton,9.35
+PA857,Si,1ra clase,"Wick, Mrs. George Dennick (Mary Hitchcock)",Femenino,45,1,1,TI174,Southampton,82.43
+PA858,Si,1ra clase,"Daly, Mr. Peter Denis",Masculino,51,0,0,TI450,Southampton,26.55
+PA859,Si,3ra clase,"Baclini, Mrs. Solomon (Latifa Qurban)",Femenino,24,0,3,TI268,Cherbourg,4.81
+PA860,No,3ra clase,"Razi, Mr. Raihed",Masculino,27,0,0,TI284,Cherbourg,7.23
+PA861,No,3ra clase,"Hansen, Mr. Claus Peter",Masculino,41,2,0,TI742,Southampton,14.11
+PA862,No,2da clase,"Giles, Mr. Frederick Edward",Masculino,21,1,0,TI329,Southampton,11.5
+PA863,Si,1ra clase,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Femenino,48,0,0,TI535,Southampton,25.93
+PA864,No,3ra clase,"Sage, Miss. Dorothy Edith """"""""""""""""""""""""""""""""Dolly""""""""""""""""""""""""""""""""",Femenino,16,8,2,TI422,Southampton,9.94
+PA865,No,2da clase,"Gill, Mr. John William",Masculino,24,0,0,TI169,Southampton,13.0
+PA866,Si,2da clase,"Bystrom, Mrs. (Karolina)",Femenino,42,0,0,TI380,Southampton,13.0
+PA867,Si,2da clase,"Duran y More, Miss. Asuncion",Femenino,27,1,0,TI497,Cherbourg,13.86
+PA868,No,1ra clase,"Roebling, Mr. Washington Augustus II",Masculino,31,0,0,TI253,Southampton,50.5
+PA869,No,3ra clase,"van Melkebeke, Mr. Philemon",Masculino,30,0,0,TI4,Southampton,9.5
+PA870,Si,3ra clase,"Johnson, Master. Harold Theodor",Masculino,4,1,1,TI456,Southampton,3.71
+PA871,No,3ra clase,"Balkic, Mr. Cerin",Masculino,26,0,0,TI209,Southampton,7.9
+PA872,Si,1ra clase,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Femenino,47,1,1,TI761,Southampton,26.28
+PA873,No,1ra clase,"Carlsson, Mr. Frans Olof",Masculino,33,0,0,TI600,Southampton,5.0
+PA874,No,3ra clase,"Vander Cruyssen, Mr. Victor",Masculino,47,0,0,TI725,Southampton,9.0
+PA875,Si,2da clase,"Abelson, Mrs. Samuel (Hannah Wizosky)",Femenino,28,1,0,TI597,Cherbourg,12.0
+PA876,Si,3ra clase,"Najib, Miss. Adele Kiamie """"""""""""""""""""""""""""""""Jane""""""""""""""""""""""""""""""""",Femenino,15,0,0,TI560,Cherbourg,7.22
+PA877,No,3ra clase,"Gustafsson, Mr. Alfred Ossian",Masculino,20,0,0,TI474,Southampton,4.92
+PA878,No,3ra clase,"Petroff, Mr. Nedelio",Masculino,19,0,0,TI416,Southampton,7.9
+PA879,No,3ra clase,"Laleff, Mr. Kristo",Masculino,30,0,0,TI354,Southampton,7.9
+PA880,Si,1ra clase,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Femenino,56,0,1,TI591,Cherbourg,41.58
+PA881,Si,2da clase,"Shelley, Mrs. William (Imanita Parrish Hall)",Femenino,25,0,1,TI73,Southampton,13.0
+PA882,No,3ra clase,"Markun, Mr. Johann",Masculino,33,0,0,TI637,Southampton,7.9
+PA883,No,3ra clase,"Dahlberg, Miss. Gerda Ulrika",Femenino,22,0,0,TI799,Southampton,10.52
+PA884,No,2da clase,"Banfield, Mr. Frederick James",Masculino,28,0,0,TI757,Southampton,10.5
+PA885,No,3ra clase,"Sutehall, Mr. Henry Jr",Masculino,25,0,0,TI154,Southampton,7.05
+PA886,No,3ra clase,"Rice, Mrs. William (Margaret Norton)",Femenino,39,0,5,TI533,Queenstown,5.82
+PA887,No,2da clase,"Montvila, Rev. Juozas",Masculino,27,0,0,TI698,Southampton,13.0
+PA888,Si,1ra clase,"Graham, Miss. Margaret Edith",Femenino,19,0,0,TI201,Southampton,30.0
+PA889,No,3ra clase,"Johnston, Miss. Catherine Helen """"""""""""""""""""""""""""""""Carrie""""""""""""""""""""""""""""""""",Femenino,24,1,2,TI280,Southampton,11.72
+PA890,Si,1ra clase,"Behr, Mr. Karl Howell",Masculino,26,0,0,TI413,Cherbourg,30.0
+PA891,No,3ra clase,"Dooley, Mr. Patrick",Masculino,32,0,0,TI214,Queenstown,7.75
